@@ -1,0 +1,5000 @@
+{
+    "_id": { "$oid": "58c074ef08ef2cb4519b975e" },
+    "email": "bdiaz0@jugem.jp",
+    "medicaments": [ "Nabumetone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b975f" },
+    "email": "jduncan1@google.com",
+    "medicaments": [ "lisinopril", "Vinorelbine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9760" },
+    "email": "hblack2@ycombinator.com",
+    "medicaments": [ "Buspirone hydrochloride", "acyclovir" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9761" },
+    "email": "jpalmer3@icio.us",
+    "medicaments": [ "Diphenhydramine Hydrochloride", "German Cockroach" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9762" },
+    "email": "dfox4@lulu.com",
+    "medicaments": [ "Levothyroxine Sodium", "ALLANTOIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9763" },
+    "email": "ebryant5@elpais.com",
+    "medicaments": [ "BUPIVACAINE HYDROCHLORIDE", "Amoxicillin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9764" },
+    "email": "carnold6@illinois.edu",
+    "medicaments": [ "Aluminum Zirconium Trichlorohydrex Gly", "California Valley White Oak" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9765" },
+    "email": "mmendoza7@quantcast.com",
+    "medicaments": [ "Hydrocortisone", "AVOBENZONE OCTINOXATE OXYBENZONE", "esterified estrogens" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9766" },
+    "email": "jmeyer8@twitter.com",
+    "medicaments": [ "Salicylic acid", "ROPINIROLE HYDROCHLORIDE", "Octinoxate, Octisalate, Oxybenzone, and Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9767" },
+    "email": "dhicks9@addthis.com",
+    "medicaments": [ "Salicylic Acid", "Methenamine Hippurate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9768" },
+    "email": "vchaveza@tinyurl.com",
+    "medicaments": [ "Furosemide", "Lisinopril and Hydrochlorothiazide", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9769" },
+    "email": "celliottb@va.gov",
+    "medicaments": [ "Echinacea 3X, Hydrastis Canadensis 3X, Myrrha 3X, Naturtium Aquaticum 3X, Osha 3X, Tabebuia Impetiginaosa 3X", "ACONITUM, ARG NIT, ARSENICUM ALB", "Doxepin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976a" },
+    "email": "hrussellc@goo.gl",
+    "medicaments": [ "Irbesartan", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976b" },
+    "email": "hmeyerd@delicious.com",
+    "medicaments": [ "dexamethasone", "Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976c" },
+    "email": "jstevense@odnoklassniki.ru",
+    "medicaments": [ "Wart Remover Strips", "Benzocaine", "Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976d" },
+    "email": "calexanderf@webnode.com",
+    "medicaments": [ "Lidocaine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976e" },
+    "email": "whicksg@ftc.gov",
+    "medicaments": [ "Annual Blue Grass", "OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b976f" },
+    "email": "mmoralesh@aol.com",
+    "medicaments": [ "rivaroxaban", "Mirtazapine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9770" },
+    "email": "mbanksi@bloglines.com",
+    "medicaments": [ "Captopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9771" },
+    "email": "estevensj@multiply.com",
+    "medicaments": [ "Oxygen", "ibuprofen", "Guaifenesin, Dextromethorphan, Phenyphrine Hydrchloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9772" },
+    "email": "jwatkinsk@weather.com",
+    "medicaments": [ "sodium polystyrene sulfonate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9773" },
+    "email": "darmstrongl@feedburner.com",
+    "medicaments": [ "Lisinopril and Hydrochlorothiazide", "Clonazepam", "abacavir sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9774" },
+    "email": "cricem@tamu.edu",
+    "medicaments": [ "Morphine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9775" },
+    "email": "jcarrn@delicious.com",
+    "medicaments": [ "bupropion hydrochloride", "Ethambutol Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9776" },
+    "email": "rphillipso@fastcompany.com",
+    "medicaments": [ "SODIUM MONOFLUOROPHOSPHATE", "Acetaminophen,Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9777" },
+    "email": "ggilbertp@usgs.gov",
+    "medicaments": [ "Ketoconazole", "Promethazine Hydrochloride", "dextromethorphan hydrobromide and guaifenesin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9778" },
+    "email": "jwashingtonq@squidoo.com",
+    "medicaments": [ "Ethyl Alcohol", "Risperidone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9779" },
+    "email": "rvasquezr@vistaprint.com",
+    "medicaments": [ "Calcium polycarbophil", "not applicable", "Telmisartan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977a" },
+    "email": "bmeyers@com.com",
+    "medicaments": [ "BUPIVACAINE HYDROCHLORIDE", "Losartan Potassium", "SIROLIMUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977b" },
+    "email": "cgomezt@weebly.com",
+    "medicaments": [ "Octinoxate and Titanium Dioxide", "cholestyramine", "hypromellose" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977c" },
+    "email": "mwatsonu@nifty.com",
+    "medicaments": [ "Loperamide HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977d" },
+    "email": "jalexanderv@amazon.co.jp",
+    "medicaments": [ "Acetaminophen, Dextromethorphan hydrobromide, and Phenylephrine hydrochloride", "Plantain English" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977e" },
+    "email": "rharveyw@telegraph.co.uk",
+    "medicaments": [ "Amoxicillin", "OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b977f" },
+    "email": "cmillerx@fda.gov",
+    "medicaments": [ "Famotidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9780" },
+    "email": "pmedinay@imdb.com",
+    "medicaments": [ "Salicylic Acid", "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9781" },
+    "email": "kreyesz@delicious.com",
+    "medicaments": [ "Aluminum Zirconium Tetrachlorohydrex GLY", "SOLIDAGO VIRGAUREA FLOWERING TOP and AMMI VISNAGA FRUIT and BERBERIS VULGARIS ROOT BARK and ANHYDROUS CITRIC ACID and CHONDRODENDRON TOMENTOSUM ROOT and LYTTA VESICATORIA and CALCIUM SULFIDE and NITRI" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9782" },
+    "email": "jhamilton10@foxnews.com",
+    "medicaments": [ "Mirtazapine", "Aspergillus repens" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9783" },
+    "email": "vgordon11@sciencedirect.com",
+    "medicaments": [ "MAGNESIUM SULFATE HEPTAHYDRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9784" },
+    "email": "jstone12@umn.edu",
+    "medicaments": [ "Carboxymethylcellulose Sodium, Glycerin", "pilocarpine hyrochloride", "Tamoxifen Citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9785" },
+    "email": "jandrews13@auda.org.au",
+    "medicaments": [ "SPONGIA OFFICINALIS SKELETON, ROASTED and CALCIUM IODIDE and FUCUS VESICULOSUS and SILICON DIOXIDE and", "Benzethonium chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9786" },
+    "email": "rphillips14@unc.edu",
+    "medicaments": [ "hydrocortisone butyrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9787" },
+    "email": "cstanley15@devhub.com",
+    "medicaments": [ "MENTHOL METHYL SALICYLATE CAPSAICIN", "Atenolol", "Antimon. crud., Arsenicum alb., Berber. vulg., Bovista, Bryonia, Cantharis, Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium, Mezereum, Nux vom., Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod., Echinacea, Rumex crisp., Taraxacum, Urtica ur." ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9788" },
+    "email": "lwilliams16@bloglovin.com",
+    "medicaments": [ "Ibuprofen", "Cetirizine Hydrochloride", "Guanfacine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9789" },
+    "email": "slong17@shop-pro.jp",
+    "medicaments": [ "Venlafaxine", "lidocaine and tetracaine", "NITROGEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978a" },
+    "email": "hjames18@google.pl",
+    "medicaments": [ "montelukast sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978b" },
+    "email": "bramos19@t.co",
+    "medicaments": [ "Loperamide HCl", "AVOBENZONE, OCTINOXATE, OCTOCRYLENE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978c" },
+    "email": "arichardson1a@tripadvisor.com",
+    "medicaments": [ "CEFEPIME HYDROCHLORIDE", "levalbuterol hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978d" },
+    "email": "hwillis1b@bbc.co.uk",
+    "medicaments": [ "White Seedless Grape", "Calcium Carbonate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978e" },
+    "email": "along1c@com.com",
+    "medicaments": [ "Poverty Weed", "Prairie Sage", "SALICYLIC ACID" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b978f" },
+    "email": "dcarroll1d@toplist.cz",
+    "medicaments": [ "Ursodiol", "Oxygen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9790" },
+    "email": "sjohnson1e@sphinn.com",
+    "medicaments": [ "balsalazide disodium", "BENZALKONIUM CHLORIDE", "Fluorouracil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9791" },
+    "email": "ewells1f@fastcompany.com",
+    "medicaments": [ "Bismuth subsalicylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9792" },
+    "email": "cmorris1g@wp.com",
+    "medicaments": [ "ACONITUM NAPELLUS, BRYONIA ALBA ROOT, EUCALYPTUS GLOBULUS LEAF, EUPATORIUM PERFOLIATUM FLOWERING TOP, GELSEMIUM SEMPERVIRENS ROOT,IPECAC , PHOSPHORUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9793" },
+    "email": "iweaver1h@usatoday.com",
+    "medicaments": [ "Dermatophagoides farinae and Dermatophagoides pteronyssinus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9794" },
+    "email": "jwalker1i@people.com.cn",
+    "medicaments": [ "SENNOSIDES", "Sodium Monofluorophosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9795" },
+    "email": "sgarcia1j@trellian.com",
+    "medicaments": [ "Fosinopril Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9796" },
+    "email": "chill1k@baidu.com",
+    "medicaments": [ "polymyxin B sulfate, trimethoprim sulfate", "docusate sodium and sennosides" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9797" },
+    "email": "celliott1l@ehow.com",
+    "medicaments": [ "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9798" },
+    "email": "rwagner1m@1688.com",
+    "medicaments": [ "OCTINOXATE, OCTOCRYLENE, OCTISALATE, and AVOBENZONE", "Ampicillin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9799" },
+    "email": "shansen1n@linkedin.com",
+    "medicaments": [ "Lamotrigine", "Triazolam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979a" },
+    "email": "tjenkins1o@bloglines.com",
+    "medicaments": [ "Acetaminophen and Codeine Phosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979b" },
+    "email": "sbailey1p@si.edu",
+    "medicaments": [ "DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE", "dimethicone, octinoxate, octisalate, oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979c" },
+    "email": "jhudson1q@oaic.gov.au",
+    "medicaments": [ "Octinoxate", "ALCOHOL", "piperacillin sodium and tazobactam sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979d" },
+    "email": "jflores1r@macromedia.com",
+    "medicaments": [ "Menthol", "Lovastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979e" },
+    "email": "shenderson1s@globo.com",
+    "medicaments": [ "PHENYTOIN SODIUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b979f" },
+    "email": "mflores1t@google.fr",
+    "medicaments": [ "TITANIUM DIOXIDE", "Anticoagulant Citrate Phosphate Dextrose (CPD) AND AS-5 Red Cell Preservative", "Oxygen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a0" },
+    "email": "wgordon1u@aboutads.info",
+    "medicaments": [ "Botrytis cinerea", "AGARICUS MUSCARIUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a1" },
+    "email": "phart1v@istockphoto.com",
+    "medicaments": [ "risperidone", "OCTINOXATE, TITANIUM DIOXIDE", "Kit for the preparation of Technetium Tc 99m-Labeled Red Blood Cells" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a2" },
+    "email": "jflores1w@earthlink.net",
+    "medicaments": [ "tretinoin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a3" },
+    "email": "sschmidt1x@virginia.edu",
+    "medicaments": [ "Hyoscyamine Sulfate", "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a4" },
+    "email": "agreene1y@blinklist.com",
+    "medicaments": [ "Sulfamethoxazole and Trimethoprim", "Hydrocortisone", "Sodium fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a5" },
+    "email": "rboyd1z@utexas.edu",
+    "medicaments": [ "Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a6" },
+    "email": "ephillips20@hhs.gov",
+    "medicaments": [ "DIPYRIDAMOLE", "estradiol", "Famotidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a7" },
+    "email": "sjordan21@hugedomains.com",
+    "medicaments": [ "Oxygen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a8" },
+    "email": "dcoleman22@ucoz.com",
+    "medicaments": [ "Arnica montana, Hypericum perforatum, Symphytum officinale, Gnaphalium polycephalum, Colocynthis, Formica rufa, Rhus toxicodendron,", "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97a9" },
+    "email": "pgarza23@dagondesign.com",
+    "medicaments": [ "Menthol, Methyl Salicylate", "Causticum, Natrum muriaticum, Nus vomica, Pulsatilla, Sepia, Staphysagria, Thuja occidentalis,", "Pantoprazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97aa" },
+    "email": "apatterson24@netvibes.com",
+    "medicaments": [ "fluocinolone acetonide", "Menthol, Methyl salicylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ab" },
+    "email": "jgibson25@feedburner.com",
+    "medicaments": [ "Kochia scoparia" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ac" },
+    "email": "btucker26@gizmodo.com",
+    "medicaments": [ "METHYLPREDNISOLONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ad" },
+    "email": "bdean27@so-net.ne.jp",
+    "medicaments": [ "Cocoa butter, Phenylephrine HCl, Shark liver oil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ae" },
+    "email": "vbarnes28@t-online.de",
+    "medicaments": [ "Terazosin", "not applicable", "EUCALYPTOL,MENTHOL, METHYL SALICYLATE, THYMOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97af" },
+    "email": "tsanchez29@samsung.com",
+    "medicaments": [ "Bupropion Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b0" },
+    "email": "dshaw2a@reverbnation.com",
+    "medicaments": [ "CALCIUM FLUORIDE", "Chlorpheniramine maleate, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b1" },
+    "email": "bcarr2b@vk.com",
+    "medicaments": [ "Brome Grass" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b2" },
+    "email": "cgardner2c@mozilla.org",
+    "medicaments": [ "Warfarin Sodium", "Fentanyl Citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b3" },
+    "email": "cferguson2d@dedecms.com",
+    "medicaments": [ "Triclocarban", "Triamterene and Hydrochlorothiazide", "METHYLPREDNISOLONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b4" },
+    "email": "ghicks2e@scribd.com",
+    "medicaments": [ "OCTINOXATE, TITANIUM DIOXIDE, ENZACAMENE", "Bambusa Stibium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b5" },
+    "email": "jgrant2f@narod.ru",
+    "medicaments": [ "cyclophosphamide", "Thioridazine Hydrochloride", "Venlafaxine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b6" },
+    "email": "areid2g@fda.gov",
+    "medicaments": [ "Oxygen", "donepezil hydrochloride", "minoxidil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b7" },
+    "email": "tandrews2h@jigsy.com",
+    "medicaments": [ "OCTINOXATE, AVOBENZONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b8" },
+    "email": "bgutierrez2i@psu.edu",
+    "medicaments": [ "Eucalyptol, menthol, methyl salicylate, thymol", "Triticum Aestivum, Berberis Vulgaris, Glycyrrhiza Glabra, Lappa Major, Phytolacca Decandra, Rhamnus Frangula, Rhamnus Purshiana, Stillingia Sylvatica" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97b9" },
+    "email": "aadams2j@mac.com",
+    "medicaments": [ "Botrytis cinerea", "HYDROCODONE BITARTRATE", "Penicillin G Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ba" },
+    "email": "afox2k@webmd.com",
+    "medicaments": [ "Alcohol", "levofloxacin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97bb" },
+    "email": "vburns2l@jimdo.com",
+    "medicaments": [ "Magnesium Sulfate Heptahydrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97bc" },
+    "email": "llopez2m@xinhuanet.com",
+    "medicaments": [ "Ethyl Alcohol", "Fluconazole", "Zidovudine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97bd" },
+    "email": "spatterson2n@mashable.com",
+    "medicaments": [ "Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97be" },
+    "email": "ffisher2o@cbslocal.com",
+    "medicaments": [ "Lovastatin", "oxybutynin chloride", "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97bf" },
+    "email": "bfernandez2p@slideshare.net",
+    "medicaments": [ "Labetalol Hydrochloride", "CAMPHOR, MENTHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c0" },
+    "email": "jmorrison2q@state.tx.us",
+    "medicaments": [ "Duloxetine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c1" },
+    "email": "jdixon2r@yellowbook.com",
+    "medicaments": [ "clonazepam", "Ibuprofen", "Titanium Dioxide and Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c2" },
+    "email": "akim2s@hud.gov",
+    "medicaments": [ "Dimethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c3" },
+    "email": "rlawrence2t@microsoft.com",
+    "medicaments": [ "Hydroxyzine Pamoate", "ATAZANAVIR SULFATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c4" },
+    "email": "fhart2u@fc2.com",
+    "medicaments": [ "Prasugrel hydrochloride", "Etodolac" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c5" },
+    "email": "rnelson2v@dmoz.org",
+    "medicaments": [ "Triamterene and Hydrochlorothiazide", "OFLOXACIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c6" },
+    "email": "lbanks2w@multiply.com",
+    "medicaments": [ "Sardine", "Safecare" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c7" },
+    "email": "cgarcia2x@360.cn",
+    "medicaments": [ "diphenhydramine hydrochloride", "enoxaparin sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c8" },
+    "email": "rharvey2y@examiner.com",
+    "medicaments": [ "Trihexyphenidyl Hydrochloride", "Tetracycline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97c9" },
+    "email": "tfoster2z@prweb.com",
+    "medicaments": [ "Octinoxate and Oxybenzone", "SALICYLIC ACID" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ca" },
+    "email": "ascott30@acquirethisname.com",
+    "medicaments": [ "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97cb" },
+    "email": "swallace31@github.io",
+    "medicaments": [ "Titanium Dioxide, Octinoxate, Octisalate, Zinc Oxide", "Sheep Sorrel" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97cc" },
+    "email": "jwells32@illinois.edu",
+    "medicaments": [ "Topiramate", "Oxygen", "Chlorpromazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97cd" },
+    "email": "cwatson33@shop-pro.jp",
+    "medicaments": [ "Methimazole", "Ursodiol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ce" },
+    "email": "emendoza34@reddit.com",
+    "medicaments": [ "sorbitol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97cf" },
+    "email": "jrichardson35@storify.com",
+    "medicaments": [ "lisinopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d0" },
+    "email": "warnold36@last.fm",
+    "medicaments": [ "Neomycin Sulfate, Polymyxin B Sulfate, Hydrocortisone", "Avena Valeriana" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d1" },
+    "email": "sford37@last.fm",
+    "medicaments": [ "glipizide", "Tannate Suspension" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d2" },
+    "email": "kryan38@flavors.me",
+    "medicaments": [ "DEXTRAN 70", "Doxycycline hyclate", "Cetirizine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d3" },
+    "email": "lrichards39@moonfruit.com",
+    "medicaments": [ "bacillus subtilis" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d4" },
+    "email": "afowler3a@amazon.co.uk",
+    "medicaments": [ "VISCUM ALBUM FRUITING TOP", "Oxaprozin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d5" },
+    "email": "cfields3b@hatena.ne.jp",
+    "medicaments": [ "Candida Albicans" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d6" },
+    "email": "aburns3c@omniture.com",
+    "medicaments": [ "Valproic Acid", "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d7" },
+    "email": "sbaker3d@mapy.cz",
+    "medicaments": [ "Gabapentin", "Isoniazid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d8" },
+    "email": "jalexander3e@google.ca",
+    "medicaments": [ "Fosinopril Sodium", "Chlordiazepoxide Hydrochloride", "Diphenoxylate Hcl and Atropine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97d9" },
+    "email": "mdiaz3f@cbsnews.com",
+    "medicaments": [ "OCTINOXATE", "Helminthosporium solani Spondylocladium", "Olanzapine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97da" },
+    "email": "jbishop3g@va.gov",
+    "medicaments": [ "Methenamine, Sodium Phosphate, Monobasic, Monohydrate, Phenyl Salicylate, Methylene Blue, and Hyoscyamine Sulfate", "alprazolam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97db" },
+    "email": "cknight3h@salon.com",
+    "medicaments": [ "Dextromethorphan HBr, Guaifenesin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97dc" },
+    "email": "pgreen3i@ted.com",
+    "medicaments": [ "Titanium Dioxide, Zinc Oxide", "NITROUS OXIDE", "Menthol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97dd" },
+    "email": "cperkins3j@networksolutions.com",
+    "medicaments": [ "Hydrocortisone", "AVOBENZONE, DIMETHICONE 100, HOMOSALATE, OCTINOXATE, OCTISALATE, and OXYBENZONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97de" },
+    "email": "dalvarez3k@theguardian.com",
+    "medicaments": [ "KETOROLAC TROMETHAMINE", "Triamterene and Hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97df" },
+    "email": "mchavez3l@studiopress.com",
+    "medicaments": [ "Alcohol", "ALCOHOL", "Morphine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e0" },
+    "email": "tlee3m@ustream.tv",
+    "medicaments": [ "Cladosporium herbarum", "Topiramate", "Bisacodyl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e1" },
+    "email": "cgarcia3n@ask.com",
+    "medicaments": [ "SENNOSIDES" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e2" },
+    "email": "hjames3o@eepurl.com",
+    "medicaments": [ "Paroxetine", "Loratadine", "OCTINOXATE and TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e3" },
+    "email": "jroberts3p@bloomberg.com",
+    "medicaments": [ "Chelidonium Majus, Phytolacca Decandra, Arnica Montana, Nitricum Acidum, Nux Vomica, Phosphoricum Acidum", "Ropinirole Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e4" },
+    "email": "kstephens3q@ox.ac.uk",
+    "medicaments": [ "Pollens - Grasses, Southern Grass Mix", "carbidopa and levodopa", "Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e5" },
+    "email": "ipalmer3r@google.com.au",
+    "medicaments": [ "haloperidol", "OXCARBAZEPINE", "eletriptan hydrobromide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e6" },
+    "email": "rmccoy3s@answers.com",
+    "medicaments": [ "triclosan", "Wheat Bunt", "MICONAZOLE NITRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e7" },
+    "email": "kmoore3t@hhs.gov",
+    "medicaments": [ "Heparin Sodium and Dextrose" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e8" },
+    "email": "rlane3u@deliciousdays.com",
+    "medicaments": [ "Octinoxate and Titanium Dioxide", "Diphenhydramine Hydrochloride", "idursulfase" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97e9" },
+    "email": "agonzalez3v@imageshack.us",
+    "medicaments": [ "triclosan", "Polyethylene Glycol 3350" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ea" },
+    "email": "prichards3w@acquirethisname.com",
+    "medicaments": [ "Finasteride", "insulin detemir" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97eb" },
+    "email": "kdixon3x@mozilla.com",
+    "medicaments": [ "cetirizine Hydrochloride", "Furosemide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ec" },
+    "email": "ckelly3y@goo.gl",
+    "medicaments": [ "Wheat Stem Rust", "Minoxidil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ed" },
+    "email": "lweaver3z@1und1.de",
+    "medicaments": [ "Alcohol", "Metformin Hydrochloride", "ETHYL ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ee" },
+    "email": "dboyd40@google.es",
+    "medicaments": [ "Gabapentin", "Bismuth subsalicylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ef" },
+    "email": "palvarez41@huffingtonpost.com",
+    "medicaments": [ "Titanium dioxide", "DOCUSATE SODIUM", "Mosquito" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f0" },
+    "email": "bwallace42@nationalgeographic.com",
+    "medicaments": [ "Camphor 10%" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f1" },
+    "email": "mmurphy43@washington.edu",
+    "medicaments": [ "Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f2" },
+    "email": "gbryant44@desdev.cn",
+    "medicaments": [ "Loratadine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f3" },
+    "email": "awatkins45@flavors.me",
+    "medicaments": [ "Pyrithione Zinc", "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f4" },
+    "email": "sjacobs46@mapquest.com",
+    "medicaments": [ "clonidine hydrochloride", "BOTRYTIS CINEREA", "Aluminum Zirconium Trichlorohydrex Gly" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f5" },
+    "email": "pwillis47@paypal.com",
+    "medicaments": [ "ONION" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f6" },
+    "email": "jriley48@boston.com",
+    "medicaments": [ "Hydrocortisone Acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f7" },
+    "email": "bwatson49@123-reg.co.uk",
+    "medicaments": [ "Prazosin Hydrochloride", "Cetirizine HCl", "Stannous Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f8" },
+    "email": "wsanders4a@hibu.com",
+    "medicaments": [ "Trazodone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97f9" },
+    "email": "mfisher4b@usda.gov",
+    "medicaments": [ "Hydrocodone Bitartrate and Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97fa" },
+    "email": "alane4c@nydailynews.com",
+    "medicaments": [ "Octinoxate, Zinc Oxide", "Mouse Epithelium", "calcium carbonate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97fb" },
+    "email": "dfisher4d@elpais.com",
+    "medicaments": [ "RISPERIDONE", "Sodium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97fc" },
+    "email": "wharrison4e@comsenz.com",
+    "medicaments": [ "Aconitum napellus, Apis mellifera, Atropa belladonna, Solanum dulcamara top, Mercurius solubilis, Phytolacca americana root", "Titanium Dioxide, Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97fd" },
+    "email": "jgibson4f@i2i.jp",
+    "medicaments": [ "Levothyroxine Sodium", "Cefoxitin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97fe" },
+    "email": "dadams4g@goo.gl",
+    "medicaments": [ "BELLADONNA LEAF, CALCIUM CARBONATE, CHAMOMILE, LYCOPODIUM CLAVATUM SPORE, PULSATILLA PATENS, and SULFUR", "Demeclocycline Hydrochloride", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b97ff" },
+    "email": "aryan4h@nydailynews.com",
+    "medicaments": [ "Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride", "ALCOHOL", "levetiracetam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9800" },
+    "email": "lwoods4i@people.com.cn",
+    "medicaments": [ "Hyoscyamine Sulfate", "FUCUS VESICULOSUS, CENTELLA ASIATICA, MELISSA OFFICINALIS, ALOE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9801" },
+    "email": "janderson4j@bloglovin.com",
+    "medicaments": [ "Aluminum Zirconium Trichlorohydrex Gly", "ETHYL ALCOHOL", "etomidate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9802" },
+    "email": "dburton4k@unicef.org",
+    "medicaments": [ "rufinamide", "bethanechol chloride", "Amlodipine Besylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9803" },
+    "email": "dbell4l@wix.com",
+    "medicaments": [ "Stavudine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9804" },
+    "email": "acole4m@geocities.jp",
+    "medicaments": [ "Cefditoren Pivoxil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9805" },
+    "email": "swest4n@twitpic.com",
+    "medicaments": [ "Sodium Monofluorophosphate", "Aspergillus niger", "Phenytoin Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9806" },
+    "email": "gbanks4o@tiny.cc",
+    "medicaments": [ "Octinoxate and Avobenzone", "Phenobarbital", "aspirin and caffeine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9807" },
+    "email": "jgriffin4p@godaddy.com",
+    "medicaments": [ "darbepoetin alfa", "Simethicone", "OXYGEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9808" },
+    "email": "kgarrett4q@cbslocal.com",
+    "medicaments": [ "diazepam", "rizatriptan benzoate", "ondansetron hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9809" },
+    "email": "kharrison4r@live.com",
+    "medicaments": [ "DIMETHICONE", "ALCOHOL", "Coumarinum," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980a" },
+    "email": "llynch4s@discovery.com",
+    "medicaments": [ "Avobenzone, Octisalate, Octocrylene, and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980b" },
+    "email": "adaniels4t@whitehouse.gov",
+    "medicaments": [ "Glycerin", "East Sycamore" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980c" },
+    "email": "jwoods4u@tinyurl.com",
+    "medicaments": [ "clonidine hydrochloride", "Pyrithione Zinc", "TRICLOSAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980d" },
+    "email": "adiaz4v@epa.gov",
+    "medicaments": [ "Gabapentin", "nicotine polacrilex", "MORPHINE SULFATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980e" },
+    "email": "sfields4w@artisteer.com",
+    "medicaments": [ "Quetiapine fumarate", "Carvedilol", "Amlodipine Besylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b980f" },
+    "email": "dfernandez4x@wsj.com",
+    "medicaments": [ "Dexamethasone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9810" },
+    "email": "jtorres4y@flavors.me",
+    "medicaments": [ "omeprazole", "AZITHROMYCIN", "Carbon Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9811" },
+    "email": "lyoung4z@hexun.com",
+    "medicaments": [ "Dopamine HCl", "SODIUM FLUORIDE", "Diclofenac Potassium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9812" },
+    "email": "lgray50@admin.ch",
+    "medicaments": [ "EUTROCHIUM PURPUREUM ROOT", "Paromomycin Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9813" },
+    "email": "kgardner51@columbia.edu",
+    "medicaments": [ "Bambusa Pulsatilla", "WITCH HAZEL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9814" },
+    "email": "jmccoy52@ezinearticles.com",
+    "medicaments": [ "Aspirin", "Dopamine HCl", "Cocklebur" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9815" },
+    "email": "rarmstrong53@rakuten.co.jp",
+    "medicaments": [ "triamcinolone acetonide", "Ibuprofen (NSAID)", "Avobenzone, Homosalate, Octocrylene, Octyl Salicylate, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9816" },
+    "email": "bmitchell54@cyberchimps.com",
+    "medicaments": [ "Cimetidine", "Levonorgestrel and Ethinyl Estradiol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9817" },
+    "email": "fwilliamson55@constantcontact.com",
+    "medicaments": [ "benazepril hydrochloride and hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9818" },
+    "email": "mdaniels56@sina.com.cn",
+    "medicaments": [ "metolazone", "rilonacept", "Triclocarban" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9819" },
+    "email": "abanks57@free.fr",
+    "medicaments": [ "bepotastine besilate", "Lisinopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981a" },
+    "email": "jruiz58@fema.gov",
+    "medicaments": [ "Phenol", "CYTARABINE", "Hemorrhoidal Rectal Suppositories" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981b" },
+    "email": "hpeters59@ow.ly",
+    "medicaments": [ "nifedipine", "Metronidazole", "levocetirizine dihydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981c" },
+    "email": "snelson5a@baidu.com",
+    "medicaments": [ "Oxygen", "Butalbital, Acetaminophen, Caffeine and Codeine Phosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981d" },
+    "email": "rhunter5b@is.gd",
+    "medicaments": [ "Doxepin Hydrochloride", "Lorazepam", "Avobenzone and Octinoxate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981e" },
+    "email": "asanders5c@miitbeian.gov.cn",
+    "medicaments": [ "Vecuronium Bromide", "Levetiracetam", "Ampicillin Sodium and Sulbactam Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b981f" },
+    "email": "dbishop5d@intel.com",
+    "medicaments": [ "carbamazepine", "TRICLOSAN", "ketoprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9820" },
+    "email": "kgarza5e@amazon.co.jp",
+    "medicaments": [ "lactic acid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9821" },
+    "email": "mmorris5f@about.com",
+    "medicaments": [ "diflorasone diacetate", "ondansetron", "Sennosides" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9822" },
+    "email": "wjames5g@webnode.com",
+    "medicaments": [ "nystatin", "hydrocortisone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9823" },
+    "email": "shenderson5h@unesco.org",
+    "medicaments": [ "Gemfibrozil", "paroxetine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9824" },
+    "email": "rhart5i@themeforest.net",
+    "medicaments": [ "calcitonin salmon" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9825" },
+    "email": "garmstrong5j@sfgate.com",
+    "medicaments": [ "PANTOPRAZOLE SODIUM", "Ioversol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9826" },
+    "email": "sharper5k@census.gov",
+    "medicaments": [ "Titanium Dioxide, Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9827" },
+    "email": "cgreene5l@theglobeandmail.com",
+    "medicaments": [ "Acetaminophen", "Omeprazole", "Avobenzone, Octinoxate, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9828" },
+    "email": "mschmidt5m@addthis.com",
+    "medicaments": [ "Loratadine", "Plantain English" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9829" },
+    "email": "arichards5n@loc.gov",
+    "medicaments": [ "BENZALKONIUM CHLORIDE", "Naproxen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982a" },
+    "email": "jreynolds5o@sphinn.com",
+    "medicaments": [ "Arnica montana,", "penicillium roqueforti", "MIDODRINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982b" },
+    "email": "smedina5p@ocn.ne.jp",
+    "medicaments": [ "Octinoxate and Avobenzone", "Magnesium hydroxide", "repaglinide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982c" },
+    "email": "jbell5q@omniture.com",
+    "medicaments": [ "Treatment Set TS329227" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982d" },
+    "email": "rdean5r@seesaa.net",
+    "medicaments": [ "Ethyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982e" },
+    "email": "tdixon5s@mozilla.org",
+    "medicaments": [ "vardenafil hydrochloride", "GLYCERIN, ALLANTOIN", "Menthol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b982f" },
+    "email": "slittle5t@mapquest.com",
+    "medicaments": [ "Miconazole nitrate", "HYDROCODONE BITARTRATE AND ACETAMINOPHEN", "Theophylline" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9830" },
+    "email": "dyoung5u@wired.com",
+    "medicaments": [ "Apple Malus sp.", "Vinorelbine", "hydrocodone bitartrate and acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9831" },
+    "email": "wsanchez5v@imgur.com",
+    "medicaments": [ "Ibuprofen", "Glycerin, Hypromelloses, Polyethylene Glycol 400, and Tetrahydrozoline Hydrochloride", "Tretinoin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9832" },
+    "email": "mmills5w@buzzfeed.com",
+    "medicaments": [ "Titanium Dioxide and Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9833" },
+    "email": "tshaw5x@whitehouse.gov",
+    "medicaments": [ "Aletris 30c, Belladonna 30c, Bovista 30c, Cinchona 30c, Colocynthis 30c, Chamomilla 30c, Cinnamomum 30c, Coffea Cruda 30c, Secale 30c, Veratrum Album 30c" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9834" },
+    "email": "nmurphy5y@ow.ly",
+    "medicaments": [ "White Pepper", "ropinirole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9835" },
+    "email": "tprice5z@ow.ly",
+    "medicaments": [ "Diltiazem Hydrochloride", "Oxycodone and Acetaminophen", "zoledronic acid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9836" },
+    "email": "bgriffin60@last.fm",
+    "medicaments": [ "Witch hazel", "Trandolapril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9837" },
+    "email": "mlee61@rakuten.co.jp",
+    "medicaments": [ "CONJUGATED ESTROGENS and MEDROXYPROGESTERONE ACETATE", "Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9838" },
+    "email": "lprice62@sfgate.com",
+    "medicaments": [ "Ranitidine", "imiquimod" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9839" },
+    "email": "fmedina63@dot.gov",
+    "medicaments": [ "Chelidonium majus, Echinacea (angustifolia), Hydrastis canadensis, Nasturtium aquaticim, Taraxacum officinale, Trifolium pratense, Urtica dioica," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983a" },
+    "email": "jmills64@paginegialle.it",
+    "medicaments": [ "OCTINOXATE, OCTOCRYLENE, OCTISALATE, and OXYBENZONE", "Triclosan", "Hypromellose, Glycerin, Polyethylene glycol 400" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983b" },
+    "email": "bnguyen65@tripadvisor.com",
+    "medicaments": [ "buspirone hydrochloride", "Octinoxate and Titanium Dioxide", "Isopropyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983c" },
+    "email": "jgrant66@zdnet.com",
+    "medicaments": [ "Diphenhydramine Hydrochloride", "aprepitant" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983d" },
+    "email": "dhicks67@google.fr",
+    "medicaments": [ "Octinoxate, Titanium Dioxide", "Loblolly Pine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983e" },
+    "email": "mnichols68@usgs.gov",
+    "medicaments": [ "Hydroxychloroquine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b983f" },
+    "email": "ecox69@oracle.com",
+    "medicaments": [ "Cetirizine Hydrochloride", "SALICYLIC ACID" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9840" },
+    "email": "rellis6a@jugem.jp",
+    "medicaments": [ "Eucalyptol, menthol, methyl salicylate, thymol", "Eastern Cottonwood Common", "Sweet Corn" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9841" },
+    "email": "mprice6b@salon.com",
+    "medicaments": [ "Jute" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9842" },
+    "email": "kdean6c@tiny.cc",
+    "medicaments": [ "Hydrochlorothiazide", "eucalyptol, menthol, methyl salicylate, thymol", "Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9843" },
+    "email": "rmartinez6d@miibeian.gov.cn",
+    "medicaments": [ "Carbamazepine", "ampicillin sodium", "Loperamide Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9844" },
+    "email": "slittle6e@ox.ac.uk",
+    "medicaments": [ "TITANIUM DIOXIDE", "ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9845" },
+    "email": "twebb6f@artisteer.com",
+    "medicaments": [ "fluticasone furoate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9846" },
+    "email": "efox6g@youtu.be",
+    "medicaments": [ "Argentum metallicum, Angelica archangelica, Asafoetida, Berberis aquifolium, Bismuthum oxydatum, Causticum, Ceanothus americanus, Ceratostigma willmottianum, flos, Cuprum metallicum, Drosera, Hypericum perforatum, Ignatia amara, Ilex aquifolium, flos, Lachesis mutus, Lycopodium clavatum, Nux moschata, Thuja occidentalis, Veratrum album, Verbascum thapsus", "Metformin Hydrochloride", "griseofulvin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9847" },
+    "email": "mhart6h@geocities.com",
+    "medicaments": [ "Octinoxate and Oxybenzone", "Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9848" },
+    "email": "bmills6i@hugedomains.com",
+    "medicaments": [ "CYCLAMEN EUROPAEUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9849" },
+    "email": "bmiller6j@people.com.cn",
+    "medicaments": [ "HYDROGEN PEROXIDE", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984a" },
+    "email": "jwhite6k@printfriendly.com",
+    "medicaments": [ "Acetaminophen", "Aluminum Zirconium Tetrachlorohydrex GLY", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984b" },
+    "email": "dharper6l@newyorker.com",
+    "medicaments": [ "Trichophyton Mixture", "BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYCIN B SULFATE", "Selenium Sulfide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984c" },
+    "email": "ljames6m@shareasale.com",
+    "medicaments": [ "ENALAPRIL MALEATE", "Guaifenesin", "TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984d" },
+    "email": "rwarren6n@chronoengine.com",
+    "medicaments": [ "Psyllium", "Diphenhydramine hydrochloride and Phenylephrine hydrochloride", "Cetirizine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984e" },
+    "email": "rtorres6o@sitemeter.com",
+    "medicaments": [ "DIPHENHYDRAMINE, ZINC ACETATE", "Cotton Seed" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b984f" },
+    "email": "chughes6p@google.co.uk",
+    "medicaments": [ "Progesterone,", "Candida albicans" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9850" },
+    "email": "jstanley6q@yellowbook.com",
+    "medicaments": [ "Oxaliplatin", "Lidocaine Hydrochloride and epinephrine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9851" },
+    "email": "cmiller6r@sina.com.cn",
+    "medicaments": [ "Chlorpheniramine Maleate and Dextromethorphan Hydrobromide", "Sufentanil Citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9852" },
+    "email": "mcooper6s@nyu.edu",
+    "medicaments": [ "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9853" },
+    "email": "sgriffin6t@privacy.gov.au",
+    "medicaments": [ "clonazepam", "Mucinex Fast Max Cold, Flu and Sore Throat Maximum Strength", "quetiapine fumarate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9854" },
+    "email": "ssimmons6u@parallels.com",
+    "medicaments": [ "Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9855" },
+    "email": "spalmer6v@mozilla.org",
+    "medicaments": [ "perflutren", "Guinea Pig Epithelium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9856" },
+    "email": "frobertson6w@livejournal.com",
+    "medicaments": [ "OXYCODONE HYDROCHLORIDE", "Arnica Montana, Rhus Toxicodendron, Dulcamara, Sanguinaria Canadensis, Cartilago Suis, Coenzyme A, Funiculus Umbilicalis Suis" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9857" },
+    "email": "dhudson6x@wordpress.org",
+    "medicaments": [ "Salicylic Acid", "Apis mellifica, Belladonna, Calcarea carbonica, Medusa, Mezereum, Rhus toxicodendron, Astacus fluviatilis, Chloralum," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9858" },
+    "email": "mallen6y@spiegel.de",
+    "medicaments": [ "sertraline hydrochloride", "Hydrocortisone", "AIR COMPRESSED" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9859" },
+    "email": "ntucker6z@bing.com",
+    "medicaments": [ "Aconitum nap., Ambra, Anacardium orientale, Arg. nit., Asafoetida, Bryonia, Chamomilla, Cimicifuga, Coffea cruda, Cypripedium, Gelsemium, Hyoscyamus, Hypericum, Ignatia, Kali phos., Nux vom., Sambucus nig., Strychninum, Theridion, Valeriana, Passiflora", "Penicillin V Potasium", "METHADONE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985a" },
+    "email": "sdiaz70@ihg.com",
+    "medicaments": [ "Hydralazine", "BUPIVACAINE HYDROCHLORIDE AND EPINEPHRINE BITARTRATE", "promethazine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985b" },
+    "email": "jhayes71@hc360.com",
+    "medicaments": [ "TITANIUM DIOXIDE", "Compressed Oxygen", "Octinoxate and Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985c" },
+    "email": "pjohnston72@mysql.com",
+    "medicaments": [ "Firebush/Burning Bush" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985d" },
+    "email": "jmatthews73@mtv.com",
+    "medicaments": [ "Furosemide", "OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE", "Dimenhydrinate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985e" },
+    "email": "drose74@nsw.gov.au",
+    "medicaments": [ "cimetidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b985f" },
+    "email": "ahoward75@xrea.com",
+    "medicaments": [ "Oxymetazoline Hydrochloride", "propolis" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9860" },
+    "email": "hfowler76@slideshare.net",
+    "medicaments": [ "Octinoxate, Titanium Dioxide", "AP House Dust Mix" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9861" },
+    "email": "mellis77@umich.edu",
+    "medicaments": [ "Amoxicillin and Clavulanate Potassium", "Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9862" },
+    "email": "vjenkins78@bravesites.com",
+    "medicaments": [ "Pinus strobus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9863" },
+    "email": "mchapman79@indiegogo.com",
+    "medicaments": [ "MAGNESIA PHOSPHORICA", "Olive Olea europaea" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9864" },
+    "email": "award7a@is.gd",
+    "medicaments": [ "Benzocain", "ZINC OXIDE", "TRICLOSAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9865" },
+    "email": "dday7b@youku.com",
+    "medicaments": [ "Arsenicum album, Hepar sulphuris calcareum, Kali bichromicum, Lycopodium clavatum, Mercurius solubilis, Natrum muriaticum, Phosphorus, Pulsatilla, Sepia,", "Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9866" },
+    "email": "hnichols7c@google.ru",
+    "medicaments": [ "DIMETHICONE", "Citalopram", "Standardized Grass Pollen, Grass Mix 5" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9867" },
+    "email": "vhawkins7d@discuz.net",
+    "medicaments": [ "OCTINOXATE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9868" },
+    "email": "astanley7e@state.tx.us",
+    "medicaments": [ "Acetaminophen,Chlorpheniramine Maleate, Phenylephrine HCl", "Dock Sour Sheep Sorrel", "Loperamide Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9869" },
+    "email": "pmason7f@ocn.ne.jp",
+    "medicaments": [ "Nitroglycerin", "GLYCERIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986a" },
+    "email": "jrichardson7g@mysql.com",
+    "medicaments": [ "zolpidem tartrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986b" },
+    "email": "twalker7h@tiny.cc",
+    "medicaments": [ "SODIUM HYDROXIDE", "Hydroxyzine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986c" },
+    "email": "rrose7i@symantec.com",
+    "medicaments": [ "Lidocaine and Prilocaine", "Soybean Glycine soja", "propoxyphene hydrochloride and acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986d" },
+    "email": "barmstrong7j@google.com.au",
+    "medicaments": [ "Pramipexole Dihydrochloride", "Nystatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986e" },
+    "email": "eclark7k@yahoo.com",
+    "medicaments": [ "amlodipine valsartan and hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b986f" },
+    "email": "tgreen7l@unicef.org",
+    "medicaments": [ "delavirdine mesylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9870" },
+    "email": "glittle7m@bluehost.com",
+    "medicaments": [ "Benzalkonium Chloride", "pascopyrum smithii pollen", "OXYGEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9871" },
+    "email": "jgraham7n@marketwatch.com",
+    "medicaments": [ "LAMOTRIGINE", "flurbiprofen sodium", "Renagel" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9872" },
+    "email": "pwatkins7o@elpais.com",
+    "medicaments": [ "CLOVE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9873" },
+    "email": "fstanley7p@sitemeter.com",
+    "medicaments": [ "PYRITHIONE ZINC, PANTHENOL, NIACINAMIDE", "Cimetidine", "Tramadol Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9874" },
+    "email": "tmorales7q@mac.com",
+    "medicaments": [ "ADENOSINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9875" },
+    "email": "pgonzalez7r@theglobeandmail.com",
+    "medicaments": [ "Simethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9876" },
+    "email": "apayne7s@t-online.de",
+    "medicaments": [ "verapamil hydrochloride", "GABAPENTIN", "Belladonna 30c, Bryonia 30c, Calendula 30c, Chamomilla 30c, Colchicum 30c, Graphites 30c, Hepar Sulph 30c, Phytolacca 30c Pulsatilla 30c, Silicea 30c, Urtica Urens" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9877" },
+    "email": "bmeyer7t@miibeian.gov.cn",
+    "medicaments": [ "Alcohol", "Glyburide and Metformin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9878" },
+    "email": "dlittle7u@stanford.edu",
+    "medicaments": [ "Etomidate", "Scrub Pine", "OCTINOXATE, OCTISALATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9879" },
+    "email": "rhall7v@constantcontact.com",
+    "medicaments": [ "clopidogrel bisulfate", "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987a" },
+    "email": "psullivan7w@wunderground.com",
+    "medicaments": [ "Azithromycin", "hydrocortisone acetate pramoxine hcl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987b" },
+    "email": "mrice7x@washington.edu",
+    "medicaments": [ "ANTIPYRINE, BENZOCAINE", "Lycopodium Clavatum, Pulsatilla" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987c" },
+    "email": "bmartin7y@accuweather.com",
+    "medicaments": [ "Chestnut", "Kentucky Bluegrass (June), Standardized", "methylprednisolone acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987d" },
+    "email": "kgraham7z@gov.uk",
+    "medicaments": [ "Doxycycline Hyclate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987e" },
+    "email": "erobertson80@nature.com",
+    "medicaments": [ "CLADOSPORIUM SPHAEROSPERMUM", "levetiracetam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b987f" },
+    "email": "cbarnes81@over-blog.com",
+    "medicaments": [ "BUSPIRONE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9880" },
+    "email": "jwelch82@joomla.org",
+    "medicaments": [ "solifenacin succinate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9881" },
+    "email": "khudson83@biblegateway.com",
+    "medicaments": [ "Nicotine Polacrilex", "Titanium Dioxide, Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9882" },
+    "email": "cstevens84@printfriendly.com",
+    "medicaments": [ "TETRACYCLINE HYDROCHLORIDE", "oxycodone hydrochloride and acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9883" },
+    "email": "cnelson85@cnn.com",
+    "medicaments": [ "Naproxen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9884" },
+    "email": "cjenkins86@imageshack.us",
+    "medicaments": [ "Levetiracetam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9885" },
+    "email": "hgardner87@latimes.com",
+    "medicaments": [ "Levetiracetam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9886" },
+    "email": "ahicks88@ning.com",
+    "medicaments": [ "METHYL SALICYLATE, MENTHOL, CAPSAICIN", "Promethazine Hydrochloride", "Stannous Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9887" },
+    "email": "bgomez89@state.tx.us",
+    "medicaments": [ "ALCOHOL", "fomitopsis pinicola" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9888" },
+    "email": "kharrison8a@rakuten.co.jp",
+    "medicaments": [ "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9889" },
+    "email": "mdean8b@mysql.com",
+    "medicaments": [ "Urtica Betula Special Order" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988a" },
+    "email": "aknight8c@sogou.com",
+    "medicaments": [ "nicotine polacrilex", "PHENYLEPHRINE HYDROCHLORIDE", "Miconazole Nitrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988b" },
+    "email": "jortiz8d@examiner.com",
+    "medicaments": [ "Didanosine", "Guanfacine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988c" },
+    "email": "hromero8e@amazonaws.com",
+    "medicaments": [ "Arbutin 2%, Adenosine 0.04%", "Mycophenolate mofetil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988d" },
+    "email": "jwalker8f@imgur.com",
+    "medicaments": [ "Treatment Set TS330533" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988e" },
+    "email": "egarcia8g@bandcamp.com",
+    "medicaments": [ "Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide", "Acetaminophen, Chlorpehniramine HCl, Dextromethorphan HBr, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b988f" },
+    "email": "pbishop8h@sina.com.cn",
+    "medicaments": [ "OCTINOXATE OXYBENZONE TITANIUM DIOXIDE", "Sodium Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9890" },
+    "email": "kcox8i@netscape.com",
+    "medicaments": [ "PRAVASTATIN SODIUM", "sodium phosphate", "PODOPHYLLUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9891" },
+    "email": "carmstrong8j@ucoz.ru",
+    "medicaments": [ "not applicable", "hydrochlorothiazide", "Diclofenac Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9892" },
+    "email": "sreed8k@cdc.gov",
+    "medicaments": [ "Ofloxacin", "Nitrofurantoin", "Octinoxate and Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9893" },
+    "email": "acoleman8l@pagesperso-orange.fr",
+    "medicaments": [ "TRICLOSAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9894" },
+    "email": "jsimmons8m@cam.ac.uk",
+    "medicaments": [ "Ramipril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9895" },
+    "email": "shawkins8n@dailymail.co.uk",
+    "medicaments": [ "Albuterol Sulfate", "Lorazepam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9896" },
+    "email": "aelliott8o@washingtonpost.com",
+    "medicaments": [ "ASPIRIN", "Ketorolac Tromethamine", "TRIFLUOPERAZINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9897" },
+    "email": "jmeyer8p@bluehost.com",
+    "medicaments": [ "Meclizine HCl", "Bupropion Hydrochloride", "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9898" },
+    "email": "kbishop8q@about.com",
+    "medicaments": [ "isosorbide dinitrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9899" },
+    "email": "afields8r@jimdo.com",
+    "medicaments": [ "Ropinirole Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989a" },
+    "email": "rmartinez8s@dot.gov",
+    "medicaments": [ "Trazodone Hydrochloride", "Aspirin", "zolpidem tartrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989b" },
+    "email": "lhoward8t@buzzfeed.com",
+    "medicaments": [ "prednisone", "Shampoo plus Conditioner" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989c" },
+    "email": "fross8u@dagondesign.com",
+    "medicaments": [ "Penicillin V Potassium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989d" },
+    "email": "ewest8v@pcworld.com",
+    "medicaments": [ "Labetalol hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989e" },
+    "email": "kjenkins8w@foxnews.com",
+    "medicaments": [ "Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b989f" },
+    "email": "ldaniels8x@weibo.com",
+    "medicaments": [ "Alprazolam", "Polyethylene Glycol 3350, NF Powder for Solution, Laxative", "ARIPIPRAZOLE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a0" },
+    "email": "hreid8y@businessweek.com",
+    "medicaments": [ "CHLORPHENIRAMINE MALEATE and PHENYLEPHRINE HYDROCHLORIDE", "Simvastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a1" },
+    "email": "hburns8z@samsung.com",
+    "medicaments": [ "Warfarin Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a2" },
+    "email": "mtorres90@phpbb.com",
+    "medicaments": [ "BETA CAROTENE, ASCORBIC ACID, CHOLECALCIFEROL, .ALPHA.-TOCOPHEROL ACETATE, DL-, THIAMINE MONONITRATE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN, CALCIUM CARBONATE, SODIUM FEREDETATE, MAGNESIUM OXIDE, ZINC OXIDE, CUPRIC OXIDE, IRON SUCROSE, IODINE, OMEGA 3 FATTY ACIDS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a3" },
+    "email": "fhudson91@is.gd",
+    "medicaments": [ "Nicotine Polacrilex", "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a4" },
+    "email": "erivera92@flickr.com",
+    "medicaments": [ "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a5" },
+    "email": "swells93@yellowpages.com",
+    "medicaments": [ "Fluoxetine Hydrochloride", "Carbidopa and Levodopa" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a6" },
+    "email": "charper94@blogs.com",
+    "medicaments": [ "Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Sodium Acetate, Dibasic Potassium Phosphate, Ma" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a7" },
+    "email": "wfranklin95@imageshack.us",
+    "medicaments": [ "Salicylic Acid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a8" },
+    "email": "sclark96@examiner.com",
+    "medicaments": [ "Hydralazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98a9" },
+    "email": "fmorris97@infoseek.co.jp",
+    "medicaments": [ "Echinacea, Phytolacca Decandra, Collinsonia Canadensis, Kali Iodatum, Pinus Sylvestris, Pix Liquida, Ferrum Phosphoricum", "alcohol, lidocaine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98aa" },
+    "email": "ghowell98@yandex.ru",
+    "medicaments": [ "Dr.Phi Instant Hand Sanitizer", "PLERIXAFOR" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ab" },
+    "email": "eandrews99@vimeo.com",
+    "medicaments": [ "benztropine mesylate", "STANNOUS FLUORIDE", "Aconitum nap., Adrenalinum, Aralia quinquefolia, Arnica, Arsenicum alb., Baptisia, Bryonia, Cantharis, Chelidonium majus, Cinchona, Iodium, Kali carb., Kali iod.,Lachesis,Lycopodium, Lycopus virginicus, Nat. mur., Nux vom., Phosphorus, Pulsatilla, Rhus toxicodendron, Sabal, Thyroidinum, Echinacea, Gingko, Phytolacca, alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ac" },
+    "email": "hsanchez9a@qq.com",
+    "medicaments": [ "Diphenhydramine Hydrochloride", "Menthol", "Angelica Archangelica, Cimicifuga Racemosa, Fucus Vesiculosus, Hypothalamus (suis), Magnesia Gluconate, Oophorinum (suis) Pyridoxinum Hydrochloricum, Bovista, Cuprum metallicum, Sepia, Zincum Metallicum, Lachesis Mutus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ad" },
+    "email": "erichardson9b@php.net",
+    "medicaments": [ "Ranitidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ae" },
+    "email": "spatterson9c@hp.com",
+    "medicaments": [ "Loperamide Hydrochloride", "Octinoxate and Oxybenzone", "OCTINOXATE and OCTOCRYLENE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98af" },
+    "email": "mcole9d@hugedomains.com",
+    "medicaments": [ "BENZALKONIUM CHLORIDE", "AMITRIPTYLINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b0" },
+    "email": "jmorales9e@unicef.org",
+    "medicaments": [ "Atenolol", "Ketorolac Tromethamine", "Fluphenazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b1" },
+    "email": "jbarnes9f@addthis.com",
+    "medicaments": [ "Acetaminophen", "warfarin sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b2" },
+    "email": "ahughes9g@hao123.com",
+    "medicaments": [ "RANITIDINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b3" },
+    "email": "wwest9h@php.net",
+    "medicaments": [ "Aluminum Chlorohydrate", "Diltiazem Hydrochloride", "Gabapentin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b4" },
+    "email": "glopez9i@unc.edu",
+    "medicaments": [ "Skin Protectant", "Hydrogen Peroxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b5" },
+    "email": "tcarroll9j@theatlantic.com",
+    "medicaments": [ "levothyroxine sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b6" },
+    "email": "along9k@ebay.co.uk",
+    "medicaments": [ "Gemfibrozil", "PHENYLEPHRINE HYDROCHLORIDE, PYRILAMINE MALEATE, and DEXTROMETHORPHAN HYDROBROMIDE", "Pramipexole Dihydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b7" },
+    "email": "hryan9l@geocities.jp",
+    "medicaments": [ "LISINOPRIL", "Methyl Salicylate and Menthol", "OCTINOXATE and TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b8" },
+    "email": "jford9m@squarespace.com",
+    "medicaments": [ "Octinoxate and Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98b9" },
+    "email": "ayoung9n@spiegel.de",
+    "medicaments": [ "OCTINOXATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ba" },
+    "email": "ahowell9o@t.co",
+    "medicaments": [ "Titanium Dioxide, OCTINOXATE", "Lycopodium, Bryonia alba", "Pepper Tree Pollen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98bb" },
+    "email": "gthomas9p@noaa.gov",
+    "medicaments": [ "Salicylic Acid", "Norethindrone Acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98bc" },
+    "email": "bvasquez9q@nationalgeographic.com",
+    "medicaments": [ "clobetasol propionate", "Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98bd" },
+    "email": "twagner9r@msu.edu",
+    "medicaments": [ "fexofenadine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98be" },
+    "email": "kcooper9s@surveymonkey.com",
+    "medicaments": [ "Star of Bethlehem, Rock rose, Impatiens, Cherry plum, Clematis,", "Fentanyl Citrate", "capsaicin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98bf" },
+    "email": "jgilbert9t@xing.com",
+    "medicaments": [ "Vecuronium Bromide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c0" },
+    "email": "btorres9u@phpbb.com",
+    "medicaments": [ "Peginterferon alfa-2b" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c1" },
+    "email": "tsanchez9v@t.co",
+    "medicaments": [ "Hypericum 6X HPUS, Capsicum Annuum 3X HPUS, Arnica Montana 1X HPUS", "Pyrrole,", "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c2" },
+    "email": "sedwards9w@ucsd.edu",
+    "medicaments": [ "methylprednisolone sodium succinate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c3" },
+    "email": "jmendoza9x@berkeley.edu",
+    "medicaments": [ "metoprolol tartrate", "Desipramine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c4" },
+    "email": "jporter9y@cbsnews.com",
+    "medicaments": [ "Taurine,", "Cephalexin", "OCTINOXATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c5" },
+    "email": "tschmidt9z@domainmarket.com",
+    "medicaments": [ "ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c6" },
+    "email": "jedwardsa0@ibm.com",
+    "medicaments": [ "tretinoin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c7" },
+    "email": "jdunna1@reuters.com",
+    "medicaments": [ "Haloperidol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c8" },
+    "email": "gwallacea2@slate.com",
+    "medicaments": [ "loperamide HCl", "Benzocaine 20%, Menthol, Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98c9" },
+    "email": "jkinga3@cdbaby.com",
+    "medicaments": [ "ENSULIZOLE, OCTINOXATE, and TITANIUM DIOXIDE", "Cytarabine", "Allium sativum, Anacardium orientale, Calendula officinalis, Capsicum annuum, Ceanothus americanus, Chamomilla, Chelidonium majus, Conium maculatum, Kali carbonicum, Lobelia cardinalis, Mancinella, Myristica sebifera, Pinus sylvestris, flos, Stigmata maidis, Sepia, Taraxacum officinale, Thea sinensis" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ca" },
+    "email": "esmitha4@constantcontact.com",
+    "medicaments": [ "acetaminophen, dextromethorphan hydrobromide and doxylamine succinate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98cb" },
+    "email": "sjordana5@ebay.com",
+    "medicaments": [ "Dexamethasone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98cc" },
+    "email": "bstevensa6@privacy.gov.au",
+    "medicaments": [ "Ampicillin sodium", "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98cd" },
+    "email": "cstevensa7@msn.com",
+    "medicaments": [ "Terconazole", "Nisoldipine", "Minoxidil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ce" },
+    "email": "ecollinsa8@sbwire.com",
+    "medicaments": [ "Menthol", "Colloid Oatmeal", "Adrenocorticotrophin, Agnus castus, Baryta carbonica, Calcarea carbonica, Iodium, Lac caninum, Natrum muriaticum, Phosphoricum acidum, Sepia, Thyroidinum suis," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98cf" },
+    "email": "mgomeza9@ycombinator.com",
+    "medicaments": [ "TITANIUM DIOXIDE", "Oak Red", "Oxymetazoline HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d0" },
+    "email": "swellsaa@so-net.ne.jp",
+    "medicaments": [ "BETHANECHOL CHLORIDE", "Acetaminophen and diphenhyramine", "LOPERAMIDE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d1" },
+    "email": "treynoldsab@creativecommons.org",
+    "medicaments": [ "Naproxen Sodium", "Benzocaine", "Neomycin Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d2" },
+    "email": "jmorenoac@wordpress.com",
+    "medicaments": [ "Glycerin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d3" },
+    "email": "ngibsonad@cbc.ca",
+    "medicaments": [ "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY", "Potassium Chloride", "Simethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d4" },
+    "email": "klynchae@privacy.gov.au",
+    "medicaments": [ "ALCOHOL", "Olive Olea europaea", "Leflunomide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d5" },
+    "email": "bmartinaf@cafepress.com",
+    "medicaments": [ "Candida albicans", "Perphenazine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d6" },
+    "email": "rmooreag@about.me",
+    "medicaments": [ "Polyethylene Glycol-3350", "OCTINOXATE, AVOBENZONE AND OCTISALATE", "Levonogestrel and Ethinyl Estradiol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d7" },
+    "email": "dgrahamah@ucsd.edu",
+    "medicaments": [ "Acyclovir", "Amitriptyline Hydrochloride", "stannous fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d8" },
+    "email": "lrichardsonai@goo.gl",
+    "medicaments": [ "Ranitidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98d9" },
+    "email": "cburkeaj@xing.com",
+    "medicaments": [ "Magnesium citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98da" },
+    "email": "rmedinaak@ask.com",
+    "medicaments": [ "Venlafaxine hydrochloride", "SODIUM SULFACETAMIDE, SULFUR" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98db" },
+    "email": "ebakeral@yellowbook.com",
+    "medicaments": [ "albuterol sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98dc" },
+    "email": "rreyesam@hhs.gov",
+    "medicaments": [ "PANAX GINSENG FRUIT", "Nitrogen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98dd" },
+    "email": "llittlean@freewebs.com",
+    "medicaments": [ "Metyrapone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98de" },
+    "email": "kbrownao@sohu.com",
+    "medicaments": [ "DIGITALIS PURPUREA", "MENTHOL, ZINC OXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98df" },
+    "email": "scollinsap@japanpost.jp",
+    "medicaments": [ "Acetaminophen and Phenylephrine HCl", "ALCOHOL", "lamotrigine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e0" },
+    "email": "kcunninghamaq@seesaa.net",
+    "medicaments": [ "Calcium polycarbophil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e1" },
+    "email": "emillerar@live.com",
+    "medicaments": [ "padimate O, petrolatum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e2" },
+    "email": "jkennedyas@discovery.com",
+    "medicaments": [ "TITANIUM DIOXIDE", "Fluphenazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e3" },
+    "email": "grossat@vimeo.com",
+    "medicaments": [ "Loratadine and Pseudoephedrine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e4" },
+    "email": "anguyenau@jimdo.com",
+    "medicaments": [ "diphenhydramine hydrochloride", "DIPHENHYDRAMINE HYDROCHLORIDE", "TOPIRAMATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e5" },
+    "email": "hfloresav@over-blog.com",
+    "medicaments": [ "SELENICEREUS GRANDIFLORUS STEM", "tolnaftate", "FLUORIDE TREATMENT" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e6" },
+    "email": "mcampbellaw@ebay.com",
+    "medicaments": [ "Gabapentin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e7" },
+    "email": "rkennedyax@scribd.com",
+    "medicaments": [ "SODIUM SULFACETAMIDE and SULFUR" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e8" },
+    "email": "brodriguezay@nba.com",
+    "medicaments": [ "Anastrozole", "Duloxetine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98e9" },
+    "email": "awrightaz@eventbrite.com",
+    "medicaments": [ "Aluminum Sesquichlorohydrate", "Dextromethorphan Hydrobromide and Promethazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ea" },
+    "email": "rbaileyb0@nymag.com",
+    "medicaments": [ "Hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98eb" },
+    "email": "cwilsonb1@instagram.com",
+    "medicaments": [ "OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE", "Hand Sanitizer Spray" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ec" },
+    "email": "pcastillob2@goo.gl",
+    "medicaments": [ "PANTHENOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ed" },
+    "email": "bsimpsonb3@rakuten.co.jp",
+    "medicaments": [ "Fluconazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ee" },
+    "email": "jwillisb4@cafepress.com",
+    "medicaments": [ "Captopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ef" },
+    "email": "kwhiteb5@wix.com",
+    "medicaments": [ "ENALAPRIL MALEATE", "Rifampin", "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f0" },
+    "email": "dcollinsb6@youtube.com",
+    "medicaments": [ "Acetaminophen", "Magnesium hydroxide", "acarbose" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f1" },
+    "email": "bbrownb7@squidoo.com",
+    "medicaments": [ "VANCOMYCIN HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f2" },
+    "email": "jbowmanb8@webnode.com",
+    "medicaments": [ "Furosemide", "Amitriptyline Hydrochloride", "sildenafil citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f3" },
+    "email": "amartinezb9@unesco.org",
+    "medicaments": [ "CLONAZEPAM", "Eucalyptol, Menthol, Methyl Salicylate, Thymol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f4" },
+    "email": "ltorresba@telegraph.co.uk",
+    "medicaments": [ "Naproxen Sodium", "Sodium Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f5" },
+    "email": "rwillisbb@microsoft.com",
+    "medicaments": [ "House Fly" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f6" },
+    "email": "rmasonbc@deliciousdays.com",
+    "medicaments": [ "Geotrichum candidum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f7" },
+    "email": "jruizbd@va.gov",
+    "medicaments": [ "fexofenadine hydrochloride and pseudoephedrine hydrochloride", "Avobenzone, Homosalate, Octisalate, and Octocrylene" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f8" },
+    "email": "tlongbe@tripadvisor.com",
+    "medicaments": [ "DEXTROSE and SODIUM CHLORIDE", "Lamivudine and Zidovudine", "Imiquimod" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98f9" },
+    "email": "mburtonbf@house.gov",
+    "medicaments": [ "Ciprofloxacin", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98fa" },
+    "email": "rhillbg@blogtalkradio.com",
+    "medicaments": [ "Dehydrated alcohol injection", "Isosorbide Dinitrate", "Cinnamic Acid, Phloridzinum, Alpha Ketoglutaricum Acidum, Ascorbicum Acidum, Kidney, Malic Acid, Nicotinamidum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98fb" },
+    "email": "badamsbh@bravesites.com",
+    "medicaments": [ "DOXOrubicin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98fc" },
+    "email": "rhenrybi@nasa.gov",
+    "medicaments": [ "California Mugwort", "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98fd" },
+    "email": "vrosebj@census.gov",
+    "medicaments": [ "Snail Secretion Filtrate Titanium Dioxide Zinc Oxide Arbutin Adenosine", "PYRITHIONE ZINC" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98fe" },
+    "email": "jpetersonbk@tinypic.com",
+    "medicaments": [ "Mexiletine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b98ff" },
+    "email": "sbakerbl@alibaba.com",
+    "medicaments": [ "ALUMINUM HYDROXIDE, MAGNESIUM HYDROXIDE, DIMETHICONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9900" },
+    "email": "bwoodsbm@businesswire.com",
+    "medicaments": [ "Apis mel., Arsenicum alb., Calc. carb., Dulcamara, Graphites, Hepar sulph. calc., Hydrastis, Hydrofluoricum acidum, Kali carb., Lycopodium, Mezereum, Oleander, Petroleum, Phosphoricum ac., Phosphorus, Rhus toxicodendron, Selenium, Sepia, Silicea, Sulphur, Hydrastis,Thuja occ." ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9901" },
+    "email": "lhendersonbn@va.gov",
+    "medicaments": [ "MILRINONE LACTATE", "Diltiazem Hydrochloride", "everolimus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9902" },
+    "email": "wduncanbo@fema.gov",
+    "medicaments": [ "Protriptyline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9903" },
+    "email": "jfieldsbp@spiegel.de",
+    "medicaments": [ "Salicylic Acid", "Ammonia" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9904" },
+    "email": "ngonzalesbq@hp.com",
+    "medicaments": [ "AVOBENZONE, OCTINOXATE, and OCTISALATE", "Oregon Ash" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9905" },
+    "email": "khudsonbr@apache.org",
+    "medicaments": [ "Ranitidine", "VALPROIC ACID" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9906" },
+    "email": "hgonzalezbs@rakuten.co.jp",
+    "medicaments": [ "Maple Pollen Mixture", "Codeine Phosphate, Dexbrompheniramine Maleate, Pseudoephedrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9907" },
+    "email": "lbutlerbt@infoseek.co.jp",
+    "medicaments": [ "ONDANSETRON HYDROCHLORIDE", "ibuprofen, pseudoephedrine HCl", "HYDROQUINONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9908" },
+    "email": "cyoungbu@dailymotion.com",
+    "medicaments": [ "CHLORPROMAZINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9909" },
+    "email": "cmurphybv@cnn.com",
+    "medicaments": [ "Alprazolam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990a" },
+    "email": "jgardnerbw@amazon.com",
+    "medicaments": [ "Povidone-Iodine", "Promethazinehydrochloride and phenylephrine hydrochloride", "POVIDONE-IODINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990b" },
+    "email": "ncunninghambx@alibaba.com",
+    "medicaments": [ "LISINOPRIL", "Menthol", "DOCUSATE SODIUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990c" },
+    "email": "dberryby@themeforest.net",
+    "medicaments": [ "CLOTRIMAZOLE", "Simethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990d" },
+    "email": "fhudsonbz@narod.ru",
+    "medicaments": [ "alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990e" },
+    "email": "agrantc0@lulu.com",
+    "medicaments": [ "Oxygen", "tramadol hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b990f" },
+    "email": "jpricec1@networkadvertising.org",
+    "medicaments": [ "Mineral Oil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9910" },
+    "email": "emeyerc2@stanford.edu",
+    "medicaments": [ "Benzocaine 20%, Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9911" },
+    "email": "smartinc3@guardian.co.uk",
+    "medicaments": [ "CALENDULA OFFICINALIS FLOWERING TOP, SODIUM CHLORIDE, and Thuja occidentalis leafy twig", "Risperidone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9912" },
+    "email": "rjonesc4@illinois.edu",
+    "medicaments": [ "buspirone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9913" },
+    "email": "pmendozac5@amazon.co.uk",
+    "medicaments": [ "Lovastatin", "Insulin human", "LIDOCAINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9914" },
+    "email": "jhudsonc6@webeden.co.uk",
+    "medicaments": [ "Ethyl Alcohol", "OCTINOXATE, TITANIUM DIOXIDE, OCTISALATE", "Fludarabine Phosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9915" },
+    "email": "tmurphyc7@mac.com",
+    "medicaments": [ "Caffeine", "Natrum Salicylicum, Kalium Iodatum, Caffeine, Natrum Citricum, Cimicifuga", "Naproxen Tablets" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9916" },
+    "email": "bhuntc8@w3.org",
+    "medicaments": [ "Ketoconazole", "SALICYLIC ACID" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9917" },
+    "email": "sortizc9@delicious.com",
+    "medicaments": [ "Stibium 20 Special Order", "Famotidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9918" },
+    "email": "ageorgeca@timesonline.co.uk",
+    "medicaments": [ "dextromethorphan polistirex", "Lisinopril and Hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9919" },
+    "email": "mbrowncb@cam.ac.uk",
+    "medicaments": [ "desonide", "Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate", "sertraline hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991a" },
+    "email": "mhamiltoncc@nbcnews.com",
+    "medicaments": [ "phenylephrine hcl, brompheniramine maleate", "Chlorpheniramine maleate and Phenylephrine HCl", "Isosorbide Dinitrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991b" },
+    "email": "jfergusoncd@timesonline.co.uk",
+    "medicaments": [ "ATRACTYLODES LANCEA ROOT", "Aluminum Chlorohydrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991c" },
+    "email": "awallacece@nytimes.com",
+    "medicaments": [ "NITROUS OXIDE", "Scrub Pine", "PYRITHIONE ZINC" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991d" },
+    "email": "phallcf@webnode.com",
+    "medicaments": [ "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991e" },
+    "email": "ljonescg@blogtalkradio.com",
+    "medicaments": [ "Natural Medicine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b991f" },
+    "email": "ethompsonch@purevolume.com",
+    "medicaments": [ "Red Mulberry" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9920" },
+    "email": "acrawfordci@harvard.edu",
+    "medicaments": [ "oxymetazoline hydrochloride", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9921" },
+    "email": "tmatthewscj@xinhuanet.com",
+    "medicaments": [ "penbutolol sulfate", "Loperamide Hydrochloride", "Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9922" },
+    "email": "mfowlerck@spotify.com",
+    "medicaments": [ "Berberis vulgaris, Cimicifuga racemosa, Cinchona officinalis, Colocynthis, Ledum palustre, Ranunculus bulbosus, Aesculus hippocastanum, Cuprum aceticum,", "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9923" },
+    "email": "jjacobscl@t.co",
+    "medicaments": [ "fomepizole", "Amoxicillin", "Scale, Wing (Shad) Atriplex canescens" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9924" },
+    "email": "mgreencm@pbs.org",
+    "medicaments": [ "Triclosan", "Silk", "Oxycodone and Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9925" },
+    "email": "bportercn@ustream.tv",
+    "medicaments": [ "VANCOMYCIN HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9926" },
+    "email": "sperryco@technorati.com",
+    "medicaments": [ "SODIUM FLUORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9927" },
+    "email": "kmontgomerycp@scribd.com",
+    "medicaments": [ "Menthol", "Benzocaine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9928" },
+    "email": "mwallacecq@goo.gl",
+    "medicaments": [ "Ferrum Quartz" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9929" },
+    "email": "jcruzcr@squidoo.com",
+    "medicaments": [ "Hydrocodone Bitartrate And Acetaminophen", "aspergillus niger var. niger", "clonidine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992a" },
+    "email": "cscottcs@mail.ru",
+    "medicaments": [ "rhubarb", "albiglutide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992b" },
+    "email": "tlawsonct@tuttocitta.it",
+    "medicaments": [ "Arnica Montana, Calendula Officinalis, Symphtym Officinalis, Hypericum Perforatum, Belladonna, Bellis Perennis", "methylphenidate hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992c" },
+    "email": "jhenrycu@irs.gov",
+    "medicaments": [ "Atenolol", "Sodium chloride", "menthol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992d" },
+    "email": "mtaylorcv@huffingtonpost.com",
+    "medicaments": [ "Nicotine Polacrilex", "Dexbrompheniramine Maleate, Acetaminophen", "Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992e" },
+    "email": "agreencw@washingtonpost.com",
+    "medicaments": [ "carvedilol", "Flaxseed" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b992f" },
+    "email": "rwebbcx@gravatar.com",
+    "medicaments": [ "nifedipine", "Fenofibric Acid", "Calendula Officinalis, Echinacea Angustifolia, Cantharis Vesicatoria" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9930" },
+    "email": "rwestcy@jimdo.com",
+    "medicaments": [ "Clonazepam", "Losartan Potassium", "Octinoxate, Octisalate, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9931" },
+    "email": "rruizcz@g.co",
+    "medicaments": [ "ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9932" },
+    "email": "nlawrenced0@ameblo.jp",
+    "medicaments": [ "HELIUM", "Sisal" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9933" },
+    "email": "ahernandezd1@purevolume.com",
+    "medicaments": [ "Lansoprazole", "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone", "diltiazem hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9934" },
+    "email": "lgrahamd2@fotki.com",
+    "medicaments": [ "AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE", "Carrot" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9935" },
+    "email": "jmccoyd3@sohu.com",
+    "medicaments": [ "ETHYLHEXYL METHOXYCINNAMATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9936" },
+    "email": "rramosd4@icio.us",
+    "medicaments": [ "Multi-Electrolyte" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9937" },
+    "email": "cstoned5@ca.gov",
+    "medicaments": [ "Butalbital, Acetaminophen, and Caffeine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9938" },
+    "email": "bpetersond6@pagesperso-orange.fr",
+    "medicaments": [ "Tetracoccosporium paxianum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9939" },
+    "email": "bwatkinsd7@elegantthemes.com",
+    "medicaments": [ "pimecrolimus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993a" },
+    "email": "rscottd8@hostgator.com",
+    "medicaments": [ "mycobacterium phlei", "tizanidine hydrochloride", "Oxycodone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993b" },
+    "email": "shilld9@amazonaws.com",
+    "medicaments": [ "MICONAZOLE NITRATE", "OCTINOXATE", "SCHOENOCAULON OFFICINALE SEED" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993c" },
+    "email": "aolsonda@dedecms.com",
+    "medicaments": [ "Helium", "Epinephrine", "Ethyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993d" },
+    "email": "ahunterdb@bluehost.com",
+    "medicaments": [ "Etodolac", "Aluminum Sesquichlorohydrate", "Dorzolamide Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993e" },
+    "email": "whalldc@columbia.edu",
+    "medicaments": [ "Acetaminophen", "levobunolol hydrochloride", "Paperbark Birch" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b993f" },
+    "email": "whansondd@washington.edu",
+    "medicaments": [ "Horse Fly" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9940" },
+    "email": "swheelerde@businessinsider.com",
+    "medicaments": [ "Ziprasidone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9941" },
+    "email": "sweaverdf@nps.gov",
+    "medicaments": [ "MENTHOL", "sporisorium cruentum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9942" },
+    "email": "bsimsdg@google.com",
+    "medicaments": [ "follitropin alfa" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9943" },
+    "email": "lrobertsondh@bigcartel.com",
+    "medicaments": [ "Lidocaine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9944" },
+    "email": "lrichardsdi@google.ru",
+    "medicaments": [ "Potassium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9945" },
+    "email": "rryandj@elegantthemes.com",
+    "medicaments": [ "galantamine hydrobromide", "Cetirizine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9946" },
+    "email": "kraydk@economist.com",
+    "medicaments": [ "HYDROXYZINE PAMOATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9947" },
+    "email": "etorresdl@sphinn.com",
+    "medicaments": [ "Influenza Vaccine Live Intranasal", "pioglitazone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9948" },
+    "email": "ebarnesdm@ftc.gov",
+    "medicaments": [ "Bupropion Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9949" },
+    "email": "jhendersondn@twitter.com",
+    "medicaments": [ "buspirone hydrochloride", "Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994a" },
+    "email": "wkelleydo@xing.com",
+    "medicaments": [ "AVOBENZONE, OCTINOXATE", "Lisinopril and Hydrochlorothiazide", "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994b" },
+    "email": "jwatsondp@microsoft.com",
+    "medicaments": [ "Octinoxate", "Sodium Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994c" },
+    "email": "bholmesdq@cam.ac.uk",
+    "medicaments": [ "ziprasidone hydrochloride", "quetiapine fumarate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994d" },
+    "email": "kfowlerdr@phoca.cz",
+    "medicaments": [ "MENTHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994e" },
+    "email": "rgreends@cmu.edu",
+    "medicaments": [ "Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl", "erythromycin and benzoyl peroxide", "Lorazepam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b994f" },
+    "email": "tfranklindt@oaic.gov.au",
+    "medicaments": [ "ZINC OXIDE", "CAPSAICIN", "amlodipine besylate and benazepril hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9950" },
+    "email": "madamsdu@earthlink.net",
+    "medicaments": [ "pantoprazole sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9951" },
+    "email": "jfreemandv@jalbum.net",
+    "medicaments": [ "Benzalkonium Chloride", "Alcohol", "OCTINOXATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9952" },
+    "email": "farmstrongdw@rambler.ru",
+    "medicaments": [ "Carbidopa and Levodopa" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9953" },
+    "email": "tcookdx@webeden.co.uk",
+    "medicaments": [ "ETHYL ALCOHOL", "TETRACYCLINE HYDROCHLORIDE", "Ketotifen Fumarate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9954" },
+    "email": "jsullivandy@wufoo.com",
+    "medicaments": [ "ZINC OXIDE", "Valacyclovir Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9955" },
+    "email": "handersondz@booking.com",
+    "medicaments": [ "Povidone-Iodine", "Cantaloupe Cucumis melo", "Celecoxib" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9956" },
+    "email": "rfernandeze0@slideshare.net",
+    "medicaments": [ "Rotavirus Vaccine, Live, Oral, Pentavalent", "California Valley White Oak", "MOMETASONE FUROATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9957" },
+    "email": "wlanee1@foxnews.com",
+    "medicaments": [ "Menthol", "Treatment Set TS330376" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9958" },
+    "email": "kharte2@china.com.cn",
+    "medicaments": [ "Simvastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9959" },
+    "email": "alawsone3@shutterfly.com",
+    "medicaments": [ "POVIDONE IODINE", "ofloxacin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995a" },
+    "email": "rbaileye4@springer.com",
+    "medicaments": [ "Acetaminophen PM", "Octinoxate and Oxybenzone", "Lovastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995b" },
+    "email": "dlynche5@vimeo.com",
+    "medicaments": [ "Arsenicum Metallicum", "vardenafil hydrochloride", "Ascorbicum acidum, Cysteinum, Manganum gluconate, Alpha-ketoglutaricum acidum, Fumaricum acidum, Germainum sesquioxide, Iodium, Magnesium metallicum, Natrum oxalaceticum, Pulsatilla, Thyroidinum (suis), Vanadium metallicum," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995c" },
+    "email": "jwellse6@vk.com",
+    "medicaments": [ "Ensulizole", "Petrolatum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995d" },
+    "email": "rcarre7@ibm.com",
+    "medicaments": [ "Acetaminophen", "zinc oxide", "Cladosporium cladosporioides" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995e" },
+    "email": "ccolemane8@ustream.tv",
+    "medicaments": [ "Octinoxate, Octisalate, Avobenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b995f" },
+    "email": "fspencere9@noaa.gov",
+    "medicaments": [ "Arnica montana, Baryta carbonica, Calcarea phosphorica, Ginkgo biloba, Hamamelis virginiana, Millefolium, Phosphoricum acidum", "ISOSORBIDE DINITRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9960" },
+    "email": "pphillipsea@shinystat.com",
+    "medicaments": [ "Sodium Fluoride and Potassium Nitrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9961" },
+    "email": "jsanderseb@discovery.com",
+    "medicaments": [ "Salicylic Acid", "Mouse Epithelium", "alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9962" },
+    "email": "kgibsonec@msn.com",
+    "medicaments": [ "armodafinil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9963" },
+    "email": "dchapmaned@about.com",
+    "medicaments": [ "Sulfamethoxazole and Trimethoprim", "Triclosan", "Simvastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9964" },
+    "email": "bpriceee@mapquest.com",
+    "medicaments": [ "Duloxetine hydrochloride", "Hydroquinone", "Avobenzone, Octinoxate, Octisalate, Octocrylene" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9965" },
+    "email": "jedwardsef@salon.com",
+    "medicaments": [ "Glyburide-Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9966" },
+    "email": "anguyeneg@histats.com",
+    "medicaments": [ "estradiol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9967" },
+    "email": "rriveraeh@nydailynews.com",
+    "medicaments": [ "Aquilegia vulgaris, Avena sativa, Chamomilla, Coffea cruda, Cypripedium pubescens, Humulus lupulus, Kali phosphoricum, Passiflora incarnata, Valeriana officinalis, Zincum metallicum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9968" },
+    "email": "maustinei@addtoany.com",
+    "medicaments": [ "ARIPIPRAZOLE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9969" },
+    "email": "jstephensej@loc.gov",
+    "medicaments": [ "Hydroxyzine Pamoate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996a" },
+    "email": "lwatkinsek@miibeian.gov.cn",
+    "medicaments": [ "CEFEPIME HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996b" },
+    "email": "candersonel@virginia.edu",
+    "medicaments": [ "aspirin", "Torsemide", "Risperidone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996c" },
+    "email": "sellisem@ftc.gov",
+    "medicaments": [ "Sodium Fluoride", "Enalapril Maleate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996d" },
+    "email": "jscotten@xinhuanet.com",
+    "medicaments": [ "Chlorpheniramine maleate and Dextromethorphan HBr", "Mango" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996e" },
+    "email": "acolemaneo@domainmarket.com",
+    "medicaments": [ "POTASSIUM CITRATE", "CHLOROXYLENOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b996f" },
+    "email": "cperezep@merriam-webster.com",
+    "medicaments": [ "Phenazopyridine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9970" },
+    "email": "mhudsoneq@bluehost.com",
+    "medicaments": [ "Dextromethorphan Hydrobromide", "Budesonide", "Menthol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9971" },
+    "email": "rcarrer@nymag.com",
+    "medicaments": [ "Glycerin", "Pentoxifylline" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9972" },
+    "email": "btorreses@yandex.ru",
+    "medicaments": [ "Naproxen sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9973" },
+    "email": "abishopet@cpanel.net",
+    "medicaments": [ "Silver, Giant Puffball, Colchicum Autumnale Bulb, Chamaelirium Luteum Root, Strychnos Ignatii Seed, Lactic Acid, DL-, Lycopodium Clavatum Spore, Phosphoric Acid, Phosphorus, Syzygium Cumini Seed, Uranyl Nitrate Hexahydrate", "Hazelnut Pollen", "AVOBENZONE, OCTISALATE, and OCTOCRYLENE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9974" },
+    "email": "nturnereu@japanpost.jp",
+    "medicaments": [ "acetaminophen, dextromethorphan hydrobromide, Guaifenesin, phenylephrine hydrochloride", "OCTINOXATE OXYBENZONE", "LIDOCAINE HYDROCHLORIDE ANHYDROUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9975" },
+    "email": "mramosev@google.ca",
+    "medicaments": [ "Lidocaine and Prilocaine", "Aluminum Zirconium Tetrachlorohydrex Gly", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9976" },
+    "email": "falexanderew@home.pl",
+    "medicaments": [ "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9977" },
+    "email": "aruizex@java.com",
+    "medicaments": [ "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9978" },
+    "email": "esimpsoney@oracle.com",
+    "medicaments": [ "Losartan Potassium", "Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl", "Levothyroxine Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9979" },
+    "email": "sramosez@1und1.de",
+    "medicaments": [ "Fosinopril Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997a" },
+    "email": "nromerof0@posterous.com",
+    "medicaments": [ "Clotrimazole", "Topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997b" },
+    "email": "lhughesf1@yellowbook.com",
+    "medicaments": [ "AVOBENZONE, OCTINOXATE, OCTOCRYLENE, and OXYBENZONE", "ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997c" },
+    "email": "dmedinaf2@is.gd",
+    "medicaments": [ "lurasidone hydrochloride", "Metronidazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997d" },
+    "email": "tmitchellf3@jiathis.com",
+    "medicaments": [ "allopurinol", "Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997e" },
+    "email": "rarmstrongf4@homestead.com",
+    "medicaments": [ "Carvedilol", "Octinoxate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b997f" },
+    "email": "jmurrayf5@last.fm",
+    "medicaments": [ "SODIUM FLUORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9980" },
+    "email": "rhawkinsf6@yahoo.com",
+    "medicaments": [ "ETHYL ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9981" },
+    "email": "cwillisf7@yahoo.com",
+    "medicaments": [ "Lidocaine", "paroxetine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9982" },
+    "email": "cwagnerf8@cafepress.com",
+    "medicaments": [ "Loratadine and pseudoephedrine sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9983" },
+    "email": "tcarterf9@canalblog.com",
+    "medicaments": [ "Eucalyptol", "Acetaminophen", "Buspirone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9984" },
+    "email": "aholmesfa@infoseek.co.jp",
+    "medicaments": [ "HEPARIN SODIUM", "Timolol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9985" },
+    "email": "awhitefb@telegraph.co.uk",
+    "medicaments": [ "Ropinirole Hydrochloride", "Cyclobenzaprine Hydrochloride", "Oxymorphone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9986" },
+    "email": "rhicksfc@stumbleupon.com",
+    "medicaments": [ "simvastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9987" },
+    "email": "sthomasfd@behance.net",
+    "medicaments": [ "Calcium Chloride", "Oxygen", "Oatmeal" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9988" },
+    "email": "rwatkinsfe@diigo.com",
+    "medicaments": [ "Nitroglycerin", "Metoprolol Tartrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9989" },
+    "email": "bknightff@miitbeian.gov.cn",
+    "medicaments": [ "ULTRA-LIGHT SKIN PERFECTING MAKEUP", "Western Ragweed", "Methylprednisolone Acetate, Lidocaine Hydrochloride, Bupivacaine Hydrochloride, Povidine Iodine, Sodium Chloride, Isopropyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998a" },
+    "email": "ssnyderfg@smh.com.au",
+    "medicaments": [ "Flurazepam Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998b" },
+    "email": "bmoralesfh@woothemes.com",
+    "medicaments": [ "MENTHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998c" },
+    "email": "kwheelerfi@posterous.com",
+    "medicaments": [ "Menthol", "Felodipine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998d" },
+    "email": "dwilliamsfj@deviantart.com",
+    "medicaments": [ "Calcium carbonate", "Benzoyl Peroxide and Salicylic Acid", "iopromide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998e" },
+    "email": "tmorrisfk@so-net.ne.jp",
+    "medicaments": [ "OCTINOXATE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b998f" },
+    "email": "ahendersonfl@bandcamp.com",
+    "medicaments": [ "PSEUDOGNAPHALIUM OBTUSIFOLIUM", "Titanium dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9990" },
+    "email": "jgibsonfm@mlb.com",
+    "medicaments": [ "zolpidem tartrate", "LETROZOLE", "dexmethylphenidate hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9991" },
+    "email": "karnoldfn@networkadvertising.org",
+    "medicaments": [ "Acarbose", "fenofibrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9992" },
+    "email": "bgomezfo@creativecommons.org",
+    "medicaments": [ "Metoprolol succinate", "White Birch" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9993" },
+    "email": "jallenfp@so-net.ne.jp",
+    "medicaments": [ "omeprazole", "Furosemide", "Lamotrigine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9994" },
+    "email": "dortizfq@spotify.com",
+    "medicaments": [ "Ethanolamine Oleate", "Isopropyl Alcohol", "Metformin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9995" },
+    "email": "bmyersfr@accuweather.com",
+    "medicaments": [ "Phenazopyridine HCl", "Benzoyl Peroxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9996" },
+    "email": "hbennettfs@topsy.com",
+    "medicaments": [ "Bacitracin Zinc", "Folic Acid, Ascorbic Acid, Calcium, Iron, Cholecalciferol, .Alpha.-Tocopherol, D-, Pyridoxine Hydrochloride, Doconexent, Docusate Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9997" },
+    "email": "cwestft@shop-pro.jp",
+    "medicaments": [ "Aconitum napellus, Arsenicum album, Belladonna, Calcarea carbonica, Carcinosin, Causticum, Gelsemium sempervirens, Lachesis mutus,", "Acetaminophen", "OCTINOXATE and TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9998" },
+    "email": "kkimfu@amazon.co.uk",
+    "medicaments": [ "Lambs Quarters Chenopodium album" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9999" },
+    "email": "dhernandezfv@dyndns.org",
+    "medicaments": [ "Gentamicin Sulfate", "Octreotide Acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999a" },
+    "email": "jbryantfw@redcross.org",
+    "medicaments": [ "Carbo Animalis, Activated Charcoal, Potassium Dichromate, Sodium Chloride, Pulsatilla Vulgaris, Sepia Offcinalis Juice, Silicon Dioxide, Sulfur, Zinc", "Pyrithione Zinc" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999b" },
+    "email": "awelchfx@blogtalkradio.com",
+    "medicaments": [ "Glycerin", "Carvedilol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999c" },
+    "email": "slongfy@gravatar.com",
+    "medicaments": [ "Sertraline Hydrochloride", "Pyrithione Zinc", "CHLORPHENIRAMINE MALEATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999d" },
+    "email": "nmatthewsfz@japanpost.jp",
+    "medicaments": [ "Phenylephrine HCl", "Poplar" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999e" },
+    "email": "cpowellg0@shinystat.com",
+    "medicaments": [ "Dopamine Hydrochloride", "Magnesium Sulfate Heptahydrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b999f" },
+    "email": "jkelleyg1@ycombinator.com",
+    "medicaments": [ "Atenolol and Chlorthalidone", "Hydrocodone Bitartrate and Acetaminophen", "Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a0" },
+    "email": "kgeorgeg2@canalblog.com",
+    "medicaments": [ "Acetaminophen and Codeine Phosphate", "Star of Bethlehem, Rock rose, Impatiens, Cherry plum, Clematis," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a1" },
+    "email": "rjohnstong3@t-online.de",
+    "medicaments": [ "metoprolol succinate and hydrochlorothiazide", "atracurium besylate", "capecitabine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a2" },
+    "email": "relliottg4@omniture.com",
+    "medicaments": [ "temazepam", "Ferrum metallicum, Gratiola officinalis, Hamamelis virginiana, Helianthus annuus, Hottonia palustris, flos, Lachesis mutus, Lilium tigrinum, Lycopodium clavatum, Moschus, Palladium metallicum, Platinum metallicum, Rhus toxicodendron, Staphysagria, Sulphur, Veratrum album, Viola odorata" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a3" },
+    "email": "hhughesg5@so-net.ne.jp",
+    "medicaments": [ "bosentan", "Clotrimazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a4" },
+    "email": "mbaileyg6@microsoft.com",
+    "medicaments": [ "Elaeagnus angustifolia" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a5" },
+    "email": "smccoyg7@infoseek.co.jp",
+    "medicaments": [ "Labetalol Hydrochloride", "Nedocromil Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a6" },
+    "email": "bhernandezg8@boston.com",
+    "medicaments": [ "artemisia absinthium pollen", "Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a7" },
+    "email": "palvarezg9@dagondesign.com",
+    "medicaments": [ "epinephrine", "Helminthosporium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a8" },
+    "email": "efoxga@odnoklassniki.ru",
+    "medicaments": [ "Zinc Oxide", "Sodium Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99a9" },
+    "email": "nellisgb@dedecms.com",
+    "medicaments": [ "Quercus agrifolia", "Isopropyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99aa" },
+    "email": "sbowmangc@nsw.gov.au",
+    "medicaments": [ "Alprazolam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ab" },
+    "email": "hwillisgd@oaic.gov.au",
+    "medicaments": [ "Tamsulosin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ac" },
+    "email": "dwalkerge@livejournal.com",
+    "medicaments": [ "Avobenzone, Octinoxate, and Octisalate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ad" },
+    "email": "amillergf@people.com.cn",
+    "medicaments": [ "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE", "Dextromethorphan Hydrobromide and GUAIFENESIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ae" },
+    "email": "wriveragg@vistaprint.com",
+    "medicaments": [ "Sertraline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99af" },
+    "email": "jperrygh@mysql.com",
+    "medicaments": [ "Warfarin Sodium", "Ranitidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b0" },
+    "email": "jarmstronggi@google.co.jp",
+    "medicaments": [ "Butenafine Hydrochloride", "Magnesium Sulfate", "PILOCARPINE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b1" },
+    "email": "nfergusongj@forbes.com",
+    "medicaments": [ "HYDROQUINONE", "Ciprofloxacin", "Digoxin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b2" },
+    "email": "bpowellgk@mapquest.com",
+    "medicaments": [ "Thrombin topical Recombinant", "betamethasone valerate", "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b3" },
+    "email": "kspencergl@so-net.ne.jp",
+    "medicaments": [ "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b4" },
+    "email": "fkimgm@cdbaby.com",
+    "medicaments": [ "Butalbital, Acetaminophen, and Caffeine", "Ranitidine", "valproic acid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b5" },
+    "email": "jbakergn@elpais.com",
+    "medicaments": [ "Hog Epithelium", "Botrytis cinerea", "Carbidopa and levodopa" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b6" },
+    "email": "jfernandezgo@free.fr",
+    "medicaments": [ "Pyrithione Zinc" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b7" },
+    "email": "dmurraygp@reverbnation.com",
+    "medicaments": [ "ARSENIC TRIOXIDE and ACTIVATED CHARCOAL and SULFUR", "Fludeoxyglucose F-18", "Hydrocortisone Acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b8" },
+    "email": "cbrooksgq@lycos.com",
+    "medicaments": [ "Stibium 20", "Argentite Urtica" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99b9" },
+    "email": "dgarrettgr@foxnews.com",
+    "medicaments": [ "ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ba" },
+    "email": "shuntgs@economist.com",
+    "medicaments": [ "Bacitracin, Polymyxin B" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99bb" },
+    "email": "msimsgt@phpbb.com",
+    "medicaments": [ "POTASSIUM BICARBONATE", "Topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99bc" },
+    "email": "ebanksgu@bizjournals.com",
+    "medicaments": [ "Carisoprodol and Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99bd" },
+    "email": "bbrowngv@jugem.jp",
+    "medicaments": [ "Redtop Grass, Standardized", "Pine Australian Beefwood", "Warfarin Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99be" },
+    "email": "dlopezgw@slate.com",
+    "medicaments": [ "Nefazodone Hydrochloride", "DIETHYLPROPION HYDROCHLORIDE ER" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99bf" },
+    "email": "pbakergx@joomla.org",
+    "medicaments": [ "Treatment Set TS344421", "Trandolapril and Verapamil Hydrochloride", "Lidocaine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c0" },
+    "email": "fwashingtongy@columbia.edu",
+    "medicaments": [ "Aluminum Hydroxide, Magnesium Hydroxide, and Dimethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c1" },
+    "email": "gsanchezgz@virginia.edu",
+    "medicaments": [ "Olanzapine", "METOPROLOL SUCCINATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c2" },
+    "email": "sduncanh0@salon.com",
+    "medicaments": [ "Cerebellum Thalamus B" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c3" },
+    "email": "fgeorgeh1@nhs.uk",
+    "medicaments": [ "Pseudoephedrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c4" },
+    "email": "pmeyerh2@mac.com",
+    "medicaments": [ "Fluphenazine Hydrochloride", "acetaminophen, dextromethorphan hbr, guaifenesin, phenylephrine hcl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c5" },
+    "email": "dpriceh3@cyberchimps.com",
+    "medicaments": [ "Aethusa cynapium 6X, Cocculus indicus 12X, Colchicum autumnale 12X, Ipecacuanha 8X, Nux vomica 30X, Petroleum 12X, Veratrum album 30X" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c6" },
+    "email": "dhawkinsh4@drupal.org",
+    "medicaments": [ "Oxygen", "Glimepiride", "zolmitriptan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c7" },
+    "email": "rfowlerh5@so-net.ne.jp",
+    "medicaments": [ "Calcium Polycarbophil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c8" },
+    "email": "spriceh6@cargocollective.com",
+    "medicaments": [ "ziprasidone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99c9" },
+    "email": "mcarpenterh7@usda.gov",
+    "medicaments": [ "haloperidol", "HALOPERIDOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ca" },
+    "email": "mbishoph8@mail.ru",
+    "medicaments": [ "levetiracetam", "Chaetomium globosum", "Doxycycline" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99cb" },
+    "email": "jjacobsh9@state.gov",
+    "medicaments": [ "Clotrimazole", "CHLORZOXAZONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99cc" },
+    "email": "bgarciaha@disqus.com",
+    "medicaments": [ "Arnica montana, Avena sativa, Damiana, DNA, Korean Ginseng, Oleum animale, Pituitaria glandula (bovine), RNA, Thuja occidentalis,", "Clotrimazole", "Fentanyl Citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99cd" },
+    "email": "ekellyhb@lycos.com",
+    "medicaments": [ "Camphor, Eucalyptus Oil, Menthol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ce" },
+    "email": "kmorenohc@wufoo.com",
+    "medicaments": [ "Fluconazole", "Acetaminophen, Aspirin, Caffeine", "Sulfamethoxazole and Trimethoprim" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99cf" },
+    "email": "mcarrollhd@nationalgeographic.com",
+    "medicaments": [ "magnesium aluminosilicate, Calcium carbonate, sodium bicarbonate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d0" },
+    "email": "abakerhe@bbc.co.uk",
+    "medicaments": [ "Hydroxyzine Hydrochloride", "Octinoxate ,Avobenzone", "OXYBUTYNIN CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d1" },
+    "email": "srodriguezhf@gov.uk",
+    "medicaments": [ "Hypophysis 7 Special Order", "Geum Gentian 1 Special Order", "Corn Grain" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d2" },
+    "email": "candrewshg@lycos.com",
+    "medicaments": [ "fluocinonide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d3" },
+    "email": "kgarciahh@imageshack.us",
+    "medicaments": [ "Neomycin Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d4" },
+    "email": "rpiercehi@ft.com",
+    "medicaments": [ "Cyclobenzaprine Hydrochloride", "Esterified Estrogens and Methyltestosterone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d5" },
+    "email": "aallenhj@theatlantic.com",
+    "medicaments": [ "Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride, and Diphenhydramine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d6" },
+    "email": "rmorenohk@slideshare.net",
+    "medicaments": [ "Octinoxate and Oxybenzone", "Metronidazole", "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d7" },
+    "email": "jgarretthl@indiatimes.com",
+    "medicaments": [ "Loratadine and Pseudoephedrine", "Sertraline Hydrochloride", "FELODIPINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d8" },
+    "email": "adeanhm@ning.com",
+    "medicaments": [ "SODIUM SULFACETAMIDE", "Titanium dioxide", "Agaricus Phosphorus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99d9" },
+    "email": "mdunnhn@timesonline.co.uk",
+    "medicaments": [ "Dorzolamide Hydrochloride", "Amitriptyline Hydrochloride", "Oxymetazoline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99da" },
+    "email": "lsullivanho@hhs.gov",
+    "medicaments": [ "Tretinoin", "oxybutynin chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99db" },
+    "email": "rmcdonaldhp@mysql.com",
+    "medicaments": [ "SULFUR", "arnica montana, calendula officinalis flowering top, echinacea angustifolia, st. johns wort, silver, sulfur, allylthiourea and urtica urens" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99dc" },
+    "email": "dramoshq@deliciousdays.com",
+    "medicaments": [ "ALPRAZOLAM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99dd" },
+    "email": "srodriguezhr@redcross.org",
+    "medicaments": [ "Dextromethorphan Hydrobromide, Guaifenesin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99de" },
+    "email": "ngardnerhs@bbb.org",
+    "medicaments": [ "Alfuzosin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99df" },
+    "email": "agarzaht@google.cn",
+    "medicaments": [ "hydrocortisone", "propranolol hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e0" },
+    "email": "vgarciahu@cocolog-nifty.com",
+    "medicaments": [ "Dimethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e1" },
+    "email": "mwillishv@blogspot.com",
+    "medicaments": [ "Histaminum Hydrochloricum", "Triclosan", "Potassium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e2" },
+    "email": "gharthw@shinystat.com",
+    "medicaments": [ "OCTINOXATE, OXYBENZONE", "Thiothixene", "glipizide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e3" },
+    "email": "jweaverhx@pcworld.com",
+    "medicaments": [ "Clobetasol Propionate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e4" },
+    "email": "gwilsonhy@yellowpages.com",
+    "medicaments": [ "magnesium hydroxide", "HYDROQUINONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e5" },
+    "email": "wfrazierhz@gizmodo.com",
+    "medicaments": [ "Hydrocodone Bitartrate and Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e6" },
+    "email": "scarrolli0@fotki.com",
+    "medicaments": [ "Arsenicum album, Calcarea carbonica, Graphites" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e7" },
+    "email": "gthomasi1@hud.gov",
+    "medicaments": [ "diclofenac sodium and misoprostol", "Olanzapine", "methylergonovine maleate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e8" },
+    "email": "dandrewsi2@blogspot.com",
+    "medicaments": [ "Cephalexin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99e9" },
+    "email": "phalli3@ed.gov",
+    "medicaments": [ "Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate", "flurandrenolide", "Betamethasone Dipropionate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ea" },
+    "email": "fhughesi4@dot.gov",
+    "medicaments": [ "oxycodone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99eb" },
+    "email": "kjonesi5@tiny.cc",
+    "medicaments": [ "Aloe socotrina, Alumina, Apis mellifica, Arsenicum album, Baryta carbonica, Bryonia, Carbo vegetabilis, Chamomilla, Kali bichromicum, Phosphorus, Plumbum metallicum, Pyrogenium, Sulphur,", "Raspberry" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ec" },
+    "email": "kpetersi6@liveinternet.ru",
+    "medicaments": [ "Ibuprofen", "Paroxetine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ed" },
+    "email": "lchavezi7@diigo.com",
+    "medicaments": [ "Magnesium hydroxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ee" },
+    "email": "jperezi8@acquirethisname.com",
+    "medicaments": [ "Diclofenac Sodium", "Penicillium Chrysogenum Var. Chrysogenum", "Rhus tox. 1 Special Order" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ef" },
+    "email": "rchapmani9@usda.gov",
+    "medicaments": [ "Naproxen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f0" },
+    "email": "kholmesia@desdev.cn",
+    "medicaments": [ "Licorice", "Isopropyl Alcohol", "ISOPROPYL ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f1" },
+    "email": "pruizib@auda.org.au",
+    "medicaments": [ "tretinoin", "Camphor" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f2" },
+    "email": "plawrenceic@youtu.be",
+    "medicaments": [ "Aluminum Zirconium Trichlorohydrex Gly", "Sulfamethoxazole and Trimethoprim" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f3" },
+    "email": "wstevensid@opera.com",
+    "medicaments": [ "CALCAREA SULPHURICA", "SILVER NITRATE,AVENA SATIVA FLOWERING TOP,POTASSIUM PHOSPHATE, DIBASIC,STRYCHNOS NUX-VOMICA SEED,PHOSPHORIC ACID,SILICON DIOXIDE,TURNERA DIFFUSA LEAFY TWIG." ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f4" },
+    "email": "tpierceie@histats.com",
+    "medicaments": [ "Piroxicam", "MENTHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f5" },
+    "email": "cwhiteif@china.com.cn",
+    "medicaments": [ "Octinoxate and Oxybenzone", "Doxylamine succinate", "DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f6" },
+    "email": "alynchig@engadget.com",
+    "medicaments": [ "Simethicone", "Treatment Set TS335683", "Rice Grain" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f7" },
+    "email": "ejacobsih@yellowpages.com",
+    "medicaments": [ "Aluminum zirconium tetrachlorohydrex gly" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f8" },
+    "email": "cfrazierii@economist.com",
+    "medicaments": [ "TITANIUM DIOXIDE, ZINC OXIDE", "Erythromycin Ethylsuccinate", "OCTINOXATE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99f9" },
+    "email": "scarrollij@myspace.com",
+    "medicaments": [ "HORSE CHESTNUT, COLLINSONIA CANADENSIS ROOT, HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99fa" },
+    "email": "lrussellik@yolasite.com",
+    "medicaments": [ "Butorphanol Tartrate", "GABAPENTIN", "Camphor" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99fb" },
+    "email": "jdavisil@examiner.com",
+    "medicaments": [ "Amlodipine besylate", "Helium Oxygen Mixture" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99fc" },
+    "email": "cwestim@people.com.cn",
+    "medicaments": [ "Alfalfa, Avena Sativa, Fucus Vesiculosus, Thyroidinum, Agate, Cadmium Iodatum, Calcarea Phosphorica", "GRANULOCYTE COLONY STIMULATING FACTOR", "Sumatriptan Succinate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99fd" },
+    "email": "tcarterin@shinystat.com",
+    "medicaments": [ "NITROGLYCERIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99fe" },
+    "email": "bmontgomeryio@bing.com",
+    "medicaments": [ "Valacyclovir hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b99ff" },
+    "email": "cvasquezip@wikispaces.com",
+    "medicaments": [ "Miconazole nitrate", "Methimazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a00" },
+    "email": "lthompsoniq@unesco.org",
+    "medicaments": [ "Ropinirole Hydrochloride", "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone", "Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a01" },
+    "email": "kkennedyir@ca.gov",
+    "medicaments": [ "capsaicin", "allopurinol", "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a02" },
+    "email": "bmorganis@salon.com",
+    "medicaments": [ "SODIUM HYDROXIDE", "Calcium Carbonate", "Titanium dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a03" },
+    "email": "warnoldit@opensource.org",
+    "medicaments": [ "POVIDONE-IODINE", "Naproxen Sodium", "Losartan Potassium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a04" },
+    "email": "cwrightiu@vkontakte.ru",
+    "medicaments": [ "Zinc Oxide", "Salicylic Acid" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a05" },
+    "email": "sweaveriv@psu.edu",
+    "medicaments": [ "SILICON DIOXIDE", "Salicylic Acid", "amlodipine valsartan and hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a06" },
+    "email": "hpayneiw@netlog.com",
+    "medicaments": [ "Xerophyllum asphodeloides, Aconitum nap., Anacardium orientale, Apis mel., Bryonia, Cantharis, Croton, Graphites, Grindelia, Mezereum, Nux vom., Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sulphur, Echinacea, Rumex crisp.,Taraxacum, Urtica ur.", "flurandrenolide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a07" },
+    "email": "dkingix@cam.ac.uk",
+    "medicaments": [ "Miconazole nitrate", "Amlodipine Besylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a08" },
+    "email": "creediy@acquirethisname.com",
+    "medicaments": [ "Avobenzone, Octinoxate, Octisalate, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a09" },
+    "email": "bwheeleriz@ftc.gov",
+    "medicaments": [ "Famotidine", "Syncephalastrum", "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0a" },
+    "email": "jchapmanj0@youtube.com",
+    "medicaments": [ "AVOBENZONE HOMOSALATE OCTISALATE OXYBENZONE", "Miconazole Nitrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0b" },
+    "email": "parmstrongj1@technorati.com",
+    "medicaments": [ "lansoprazole", "NEUROSPORA INTERMEDIA" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0c" },
+    "email": "slongj2@livejournal.com",
+    "medicaments": [ "Simvastatin", "diazepam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0d" },
+    "email": "dryanj3@ucoz.com",
+    "medicaments": [ "Clindamycin Hydrochloride", "VALACYCLOVIR HYDROCHLORIDE", "Echinacea (angustifolia), Hydrastis canadensis, Nux moschata, Trigonella foenum graecum, Arsenicum album, Kali bichromicum," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0e" },
+    "email": "bpiercej4@army.mil",
+    "medicaments": [ "Ropinirole Hydrochloride", "spironolactone", "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a0f" },
+    "email": "jmorrisj5@bing.com",
+    "medicaments": [ "Penicillin V Potassium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a10" },
+    "email": "jrayj6@quantcast.com",
+    "medicaments": [ "OCTINOXATE", "Octinoxate, Octisalate, and Titanium Dioxide", "benztropine mesylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a11" },
+    "email": "lsimpsonj7@nymag.com",
+    "medicaments": [ "Triclosan", "Levofloxacin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a12" },
+    "email": "aporterj8@businessinsider.com",
+    "medicaments": [ "Fluorouracil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a13" },
+    "email": "ahuntj9@e-recht24.de",
+    "medicaments": [ "juniperus scopulorum pollen", "NEOSTIGMINE METHYLSULFATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a14" },
+    "email": "ecooperja@examiner.com",
+    "medicaments": [ "Aureobasidium pullulans", "Oxymorphone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a15" },
+    "email": "wyoungjb@yahoo.co.jp",
+    "medicaments": [ "Sulindac", "diltiazem hydrochloride", "paroxetine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a16" },
+    "email": "lcoxjc@networksolutions.com",
+    "medicaments": [ "OCTINOXATE, OXYBENZONE", "Tamsulosin Hydrochloride", "Promethazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a17" },
+    "email": "jfergusonjd@diigo.com",
+    "medicaments": [ "Quercetin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a18" },
+    "email": "dcarrje@webnode.com",
+    "medicaments": [ "Neomycin sulfate, Polymyxin B Sulfate and Dexamethasone", "multi vitamin/mineral supplement containing vitamin C, vitamin D, vitamin E, thiamin, riboflavin, niacin, pyridoxine, folic acid, cobalamin, biotin, pantothenic acid, selenium and zinc" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a19" },
+    "email": "afisherjf@topsy.com",
+    "medicaments": [ "Calendula officinalis, Phytolacca decandra, Borrelia burgdorferi, Adrenalinum, Ledum palustre, Aconitum napellus, Arnica montana,", "GLYCERIN", "Hydromorphone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1a" },
+    "email": "rmillsjg@hao123.com",
+    "medicaments": [ "Captopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1b" },
+    "email": "rcarrolljh@issuu.com",
+    "medicaments": [ "House Fly", "HYDROCODONE BITARTRATE AND IBUPROFEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1c" },
+    "email": "eperezji@mediafire.com",
+    "medicaments": [ "citalopram hydrobromide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1d" },
+    "email": "cmcdonaldjj@meetup.com",
+    "medicaments": [ "Povidone iodine swabstick", "Arnica Montana, Deer Antler Velvet, Hepar Bovine, HGH, IGF-1, Pituitaria Glandula Bovine, Thuja Occidentalis", "Amlodipine besylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1e" },
+    "email": "nweaverjk@usatoday.com",
+    "medicaments": [ "POLYETHYLENE GLYCOL 400, PROPYLENE GLYCOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a1f" },
+    "email": "mmccoyjl@google.com",
+    "medicaments": [ "Ephedrine Sulfate", "Clotrimazole", "Sodium monofluorophosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a20" },
+    "email": "rcarrolljm@geocities.com",
+    "medicaments": [ "Ranitidine", "povidine iodine", "diltiazem hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a21" },
+    "email": "wbutlerjn@blogger.com",
+    "medicaments": [ "Titanium Dioxide, OCTINOXATE", "GLYCERIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a22" },
+    "email": "hdixonjo@dedecms.com",
+    "medicaments": [ "CALCAREA FLUORICA" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a23" },
+    "email": "bfieldsjp@cargocollective.com",
+    "medicaments": [ "insulin glargine", "Gabapentin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a24" },
+    "email": "brodriguezjq@homestead.com",
+    "medicaments": [ "Loratadine", "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a25" },
+    "email": "khunterjr@wiley.com",
+    "medicaments": [ "Molds - Mold Mix 4", "Famotidine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a26" },
+    "email": "rhayesjs@nyu.edu",
+    "medicaments": [ "Glimepiride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a27" },
+    "email": "lscottjt@networkadvertising.org",
+    "medicaments": [ "Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a28" },
+    "email": "ppalmerju@hexun.com",
+    "medicaments": [ "Benztropine Mesylate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a29" },
+    "email": "mwilliamsjv@sogou.com",
+    "medicaments": [ "tiagabine hydrochloride", "CROTON TIGLIUM, ALUMINA, ARGENTUM NITRICUM, PODOPHYLLUM PELTATUM, MAGNESIA CARBONICA", "Docusate sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2a" },
+    "email": "eschmidtjw@blogs.com",
+    "medicaments": [ "Prenatal with Ferrous Fum and Folic Acid", "Amoxicillin", "Nicotine Polacrilex" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2b" },
+    "email": "jcooperjx@nyu.edu",
+    "medicaments": [ "Alcohol", "Cetirizine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2c" },
+    "email": "afoxjy@google.com.br",
+    "medicaments": [ "hydrocodone bitartrate and acetaminophen", "fluocinolone acetonide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2d" },
+    "email": "krodriguezjz@dropbox.com",
+    "medicaments": [ "verapamil hydrochloride", "CARBAMIDE PEROXIDE", "OCTINOXATE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2e" },
+    "email": "hruizk0@meetup.com",
+    "medicaments": [ "CEFIXIME", "Norethindrone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a2f" },
+    "email": "breidk1@mtv.com",
+    "medicaments": [ "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a30" },
+    "email": "dwallacek2@goodreads.com",
+    "medicaments": [ "LISINOPRIL AND HYDROCHLOROTHIAZIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a31" },
+    "email": "ahowellk3@nasa.gov",
+    "medicaments": [ "HYDROCODONE BITARTRATE AND ACETAMINOPHEN", "cocoa butter, phenylephrine hydrochloride", "KETOROLAC TROMETHAMINE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a32" },
+    "email": "kdunnk4@hexun.com",
+    "medicaments": [ "Pyrithione Zinc", "Mineral Oil, White petrolatum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a33" },
+    "email": "ahunterk5@google.com.hk",
+    "medicaments": [ "Acetaminophen, Diphenhydramine HCl and Phenylephrine HCL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a34" },
+    "email": "awheelerk6@cnn.com",
+    "medicaments": [ "Pramoxine Hydrochloride", "Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a35" },
+    "email": "pmarshallk7@g.co",
+    "medicaments": [ "benzocaine", "Ibuprofen", "RIFAXIMIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a36" },
+    "email": "mpalmerk8@microsoft.com",
+    "medicaments": [ "Black Oak" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a37" },
+    "email": "jperezk9@taobao.com",
+    "medicaments": [ "Gabapentin", "Buprenorphine and Naloxone", "Enoxaparin sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a38" },
+    "email": "hspencerka@yandex.ru",
+    "medicaments": [ "SODIUM FLUORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a39" },
+    "email": "lcarterkb@pinterest.com",
+    "medicaments": [ "Dextrose (glucose), Levulose (fructose), Phosphoric Acid", "Diphenhydramine HCl, Zinc acetate", "Titanium Dioxide and Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3a" },
+    "email": "bhansenkc@edublogs.org",
+    "medicaments": [ "Anacardium orientale, Antimon. crud., Arg. nit., Berber. vulg., Bryonia, Chelidonium majus, Digitalis, Graphites, Humulus, Iris Versicolor," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3b" },
+    "email": "dburnskd@disqus.com",
+    "medicaments": [ "Albuterol Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3c" },
+    "email": "ataylorke@dot.gov",
+    "medicaments": [ "Fexofenadine Hydrochloride", "Losartan Potassium", "Spinach" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3d" },
+    "email": "emartinezkf@tmall.com",
+    "medicaments": [ "Bupropion Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3e" },
+    "email": "sbarneskg@si.edu",
+    "medicaments": [ "Arnica , Dulcamara, Bryonia , Berberis , Rhus tox" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a3f" },
+    "email": "swoodkh@rediff.com",
+    "medicaments": [ "Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl", "ONION - ANTHOXANTHUM ODORATUM - SCHOENOCAULON OFFICINALE SEED", "Terbinafine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a40" },
+    "email": "sparkerki@nasa.gov",
+    "medicaments": [ "Nystatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a41" },
+    "email": "lpowellkj@i2i.jp",
+    "medicaments": [ "Fluoxetine", "Titanium dioxide, Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a42" },
+    "email": "nhamiltonkk@japanpost.jp",
+    "medicaments": [ "Cedar Mountain", "Lidocaine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a43" },
+    "email": "jwagnerkl@etsy.com",
+    "medicaments": [ "ketamine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a44" },
+    "email": "eowenskm@businesswire.com",
+    "medicaments": [ "GENTAMICIN SULFATE", "Alcohol", "OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a45" },
+    "email": "dcruzkn@google.co.jp",
+    "medicaments": [ "BENZALKONIUM CHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a46" },
+    "email": "jcoxko@state.tx.us",
+    "medicaments": [ "Metoprolol Tartrate", "Arnica Montana, Mercurius Corrosivus, Sulphur Iodatum, Thuja Occidentalis, Urtica Urens," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a47" },
+    "email": "bschmidtkp@uiuc.edu",
+    "medicaments": [ "Ibuprofen", "Octinoxate, Octisalate, Zinc Oxide, Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a48" },
+    "email": "chowellkq@time.com",
+    "medicaments": [ "Onion, Apis mellifera, Drosera rotundifolia, Euphrasia stricta, Histamine dihydrochloride, Urtica urens", "FAMCICLOVIR", "PENICILLIUM GLABRUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a49" },
+    "email": "ndaviskr@bluehost.com",
+    "medicaments": [ "perphenazine and amitriptyline hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4a" },
+    "email": "kbrownks@bizjournals.com",
+    "medicaments": [ "VERAPAMIL HYDROCHLORIDE", "ARNICA MONTANA ROOT and ATROPA BELLADONNA and ACONITUM NAPELLUS and HYPERICUM PERFORATUM and CALENDULA OFFICINALIS FLOWERING TOP and MATRICARIA RECUTITA and ACHILLEA MILLEFOLIUM and CALCIUM SULFIDE and COMFREY ROOT and BELLIS PERENNIS and MERCURIUS SOLUBILIS and ECHINACEA, UNSPECIFIED and ECHINACEA PURPUREA and HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK", "Prednisone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4b" },
+    "email": "bharveykt@technorati.com",
+    "medicaments": [ "HYDROCORTISONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4c" },
+    "email": "lmorganku@europa.eu",
+    "medicaments": [ "midodrine hydrochloride", "Lisinopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4d" },
+    "email": "rwellskv@whitehouse.gov",
+    "medicaments": [ "Tretinoin", "Fluocinolone Acetonide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4e" },
+    "email": "crogerskw@fc2.com",
+    "medicaments": [ "Prednisone", "ALUMINUM CHLOROHYDRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a4f" },
+    "email": "asnyderkx@abc.net.au",
+    "medicaments": [ "Simvastatin", "spironolactone and hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a50" },
+    "email": "nwilliamsonky@walmart.com",
+    "medicaments": [ "Goldenrod", "rabeprazole sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a51" },
+    "email": "jwheelerkz@freewebs.com",
+    "medicaments": [ "diphenhydramine hydrochloride", "POTASSIUM BICARBONATE", "Phentermine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a52" },
+    "email": "lmasonl0@yellowbook.com",
+    "medicaments": [ "Acetaminophen Chlorpheniramine Maleate Dextromethorphan Hydrobromide Phenylepherine Hydrochloride", "Green Olive", "Dextromethorphan HBr" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a53" },
+    "email": "badamsl1@blog.com",
+    "medicaments": [ "Antimon. crud., Arsenicum alb., Berber. vulg., Bovista , Bryonia , Cantharis , Chelidonium majus, Croton, Dulcamara, Graphites, Hepar sulph. calc., Lycopodium Mezereum, Nux vom, Petroleum, Pulex irritans, Pulsatilla, Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur iod, Echinacea, Rumex crisp., Taraxacum , Urtica ur.", "Alcohol", "FUROSEMIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a54" },
+    "email": "avasquezl2@shareasale.com",
+    "medicaments": [ "ERYTHROMYCIN", "Lambs Quarters Chenopodium album" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a55" },
+    "email": "psimmonsl3@craigslist.org",
+    "medicaments": [ "Nabumetone", "Ketoconazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a56" },
+    "email": "blittlel4@google.com",
+    "medicaments": [ "Benzoyl Peroxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a57" },
+    "email": "jrichardsonl5@ask.com",
+    "medicaments": [ "fentanyl", "BARIUM CARBONATE,ATROPA BELLADONNA,NITROGLYCERIN,LYCOPUS VIRGINICUS,STRYCHNOS NUX-VOMICA SEED,LEAD.", "Verapamil Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a58" },
+    "email": "tpiercel6@admin.ch",
+    "medicaments": [ "Capsaicin Menthol Methyl Salicylate", "triazolam", "Sertraline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a59" },
+    "email": "wblackl7@hubpages.com",
+    "medicaments": [ "Lanolin and Petrolatum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5a" },
+    "email": "rnguyenl8@alexa.com",
+    "medicaments": [ "Fluconazole", "dextromethorphan HBr, guaifenesin, phenylephrine HCl", "Flurbiprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5b" },
+    "email": "kcunninghaml9@digg.com",
+    "medicaments": [ "Allergenic Extracts Alum Precipitated" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5c" },
+    "email": "edavisla@oaic.gov.au",
+    "medicaments": [ "White Potato", "Naproxen Sodium", "zolpidem tartrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5d" },
+    "email": "rramirezlb@forbes.com",
+    "medicaments": [ "Ampicillin and Sulbactam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5e" },
+    "email": "abennettlc@rakuten.co.jp",
+    "medicaments": [ "Iothalamate meglumine", "ENALAPRIL MALEATE", "sulfasalazine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a5f" },
+    "email": "bhansonld@wired.com",
+    "medicaments": [ "Octinoxate and Titanium dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a60" },
+    "email": "bhayesle@toplist.cz",
+    "medicaments": [ "Carvedilol", "Theophylline" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a61" },
+    "email": "bwallacelf@histats.com",
+    "medicaments": [ "PETROLATUM", "Levothyroxine Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a62" },
+    "email": "jwalkerlg@upenn.edu",
+    "medicaments": [ "Bupivacaine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a63" },
+    "email": "cwilliamslh@sfgate.com",
+    "medicaments": [ "ZINC ACETATE ANHYDROUS and ZINC GLUCONATE", "Proparacaine Hydrochloride", "Adrenalinum, Bromus ramosus, flos, Calcarea iodata, Capsicum annuum, Carduus marianus, Carpinus betulus, flos, Chelidonium majus, Chionanthus virginica, Cinchona officinalis, Cytisus Scoparius, Juglans regia, flos, Mentha piperita, Oxytropis lambertii, Parthenium, Phosphoricum acidum, Picricum acidum, Saponaria officinalis, Scleranthus annuus, flos, Zincum metallicum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a64" },
+    "email": "jcookli@i2i.jp",
+    "medicaments": [ "Levofloxacin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a65" },
+    "email": "jlopezlj@apple.com",
+    "medicaments": [ "Dextromethorphan Hydrobromide, Guaifenesin, and Pseudoephedrine Hydrochloride", "Kochia scoparia" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a66" },
+    "email": "kcolelk@hp.com",
+    "medicaments": [ "acetaminophen and codeine phosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a67" },
+    "email": "rgarrettll@ucla.edu",
+    "medicaments": [ "Cefazolin", "Ibuprofen, Pseudoephedrine HCl", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a68" },
+    "email": "wfieldslm@marketwatch.com",
+    "medicaments": [ "ALCOHOL", "Sertraline Hydrochloride", "Allium Cepa, Arsenicum Album, Ferrum Phosphoricum, Lac Caninum, Natrum Muriaticum, Nux Vomica" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a69" },
+    "email": "cshawln@artisteer.com",
+    "medicaments": [ "Bacitracin Zinc", "naproxen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6a" },
+    "email": "dwagnerlo@devhub.com",
+    "medicaments": [ "NAFCILLIN SODIUM", "OCTINOXATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6b" },
+    "email": "rwilliamslp@a8.net",
+    "medicaments": [ "Nystatin", "TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6c" },
+    "email": "jnguyenlq@facebook.com",
+    "medicaments": [ "guaifenesin", "ETHYL ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6d" },
+    "email": "dgordonlr@g.co",
+    "medicaments": [ "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6e" },
+    "email": "phunterls@jiathis.com",
+    "medicaments": [ "Acetaminophen, Diphenhydramine hydrochloride, and Phenylephrine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a6f" },
+    "email": "rrodriguezlt@prlog.org",
+    "medicaments": [ "octisalate, zinc oxide", "Oxygen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a70" },
+    "email": "dwilsonlu@360.cn",
+    "medicaments": [ "Dextroamphetamine Saccharate, Amphetamine Aspartate Monohydrate, Dextroamphetamine Sulfate and Amphetamine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a71" },
+    "email": "ariveralv@mac.com",
+    "medicaments": [ "PALLADIUM", "warfarin sodium", "LISINOPRIL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a72" },
+    "email": "jjacksonlw@sbwire.com",
+    "medicaments": [ "Risperidone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a73" },
+    "email": "aperkinslx@tamu.edu",
+    "medicaments": [ "CYCLAMEN EUROPAEUM, ANTIMONIUM CRUDUM, ALUMINA, LYCOPODIUM CLAVATUM, ALUMINA, LYCOPODIUM CLAVATUM, ARGENTUM NITRICUM, DIGITALIS PURPUREA, MELILOTUS OFFICINALIS, GLONOINUM", "hydrocodone bitartrate and acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a74" },
+    "email": "npattersonly@arizona.edu",
+    "medicaments": [ "Citalopram", "Carbamazepine", "Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a75" },
+    "email": "jparkerlz@telegraph.co.uk",
+    "medicaments": [ "DOCUSATE SODIUM, SENNOSIDES" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a76" },
+    "email": "amoralesm0@ted.com",
+    "medicaments": [ "TRICLOSAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a77" },
+    "email": "rbowmanm1@amazon.co.jp",
+    "medicaments": [ "Octinoxate, TITANIUM DIOXIDE, and ZINC OXIDE", "Salicylic Acid", "Leucovorin Calcium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a78" },
+    "email": "pmitchellm2@narod.ru",
+    "medicaments": [ "Aspirin", "Octinoxate and Oxybenzone", "LIDOCAINE HYDROCHLORIDE and DEXTROSE MONOHYDRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a79" },
+    "email": "grogersm3@shutterfly.com",
+    "medicaments": [ "Human Papillomavirus Quadrivalent (Types 6, 11, 16, and 18) Vaccine, Recombinant", "Benzalkonium Chloride", "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7a" },
+    "email": "lhudsonm4@tumblr.com",
+    "medicaments": [ "benzonatate", "ALPHA-TOCOPHEROL - ASCOPHYLLUM NODOSUM - BOTRYOGLOSSUM PLATYCARPUM - FUCUS SERRATUS - FUCUS VESICULOSUS - ISOLEUCINE - LEUCINE - RETINOL - SELENIUM - SUS SCROFA CAPILLARY TISSUE - SUS SCROFA COLLAGEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7b" },
+    "email": "rwilliamsm5@mapquest.com",
+    "medicaments": [ "Aspirin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7c" },
+    "email": "eyoungm6@wikia.com",
+    "medicaments": [ "risperidone", "Ethyl alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7d" },
+    "email": "kwashingtonm7@barnesandnoble.com",
+    "medicaments": [ "minoxidil", "Cottonwood Eastern Common", "desmopressin acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7e" },
+    "email": "prichardsonm8@mapquest.com",
+    "medicaments": [ "Famciclovir", "tramadol hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a7f" },
+    "email": "dnelsonm9@soundcloud.com",
+    "medicaments": [ "Oxalis Belladonna Special Order", "Nicotine Polacrilex", "SELENIUM SULFIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a80" },
+    "email": "mevansma@goodreads.com",
+    "medicaments": [ "Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl", "CELECOXIB", "SENNOSIDES" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a81" },
+    "email": "gfergusonmb@squidoo.com",
+    "medicaments": [ "Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a82" },
+    "email": "tlarsonmc@archive.org",
+    "medicaments": [ "Acetaminophen", "Fluoxetine Hydrochloride", "AURUM STIBIUM HYOSCYAMUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a83" },
+    "email": "wmatthewsmd@buzzfeed.com",
+    "medicaments": [ "Allium cepa, Ambrosia artemisiaefolia, Dulcamara, Euphrasia officinalis, Histaminum hydrochloricum, Kali muriaticum, Naphthalinum, Natrum muriaticum", "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a84" },
+    "email": "sharperme@jimdo.com",
+    "medicaments": [ "Aconitum nap., Antimon. tart., Arg. nit., Arnica, Bryona, Chamomilla, Chelidonium majus, Cimicifuga, Eupatorium perf., Hypericum, Nux vom., Rhus toxicodendron, Ruta, Sarcolacticum ac., Stramonium, Strychnium, Chamomilla, Phytolacca, Ruta, Symphytum", "APIS MELLIFERA, URTICA URENS, SODIUM CHLORIDE, and ARSENIC TRIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a85" },
+    "email": "acartermf@cbslocal.com",
+    "medicaments": [ "ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, VALINE, ALANINE, ARGININE, ASPARTIC ACID, GLUTAMIC ACID, HISTIDINE, PROLINE, SERINE, N-ACETYLTYROSINE, and GLYCINE", "Doxycycline Hyclate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a86" },
+    "email": "djamesmg@reverbnation.com",
+    "medicaments": [ "DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE", "meloxicam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a87" },
+    "email": "rlittlemh@facebook.com",
+    "medicaments": [ "miconazole nitrate", "Glyburide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a88" },
+    "email": "hcastillomi@china.com.cn",
+    "medicaments": [ "Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a89" },
+    "email": "jcookmj@reddit.com",
+    "medicaments": [ "Aluminum Zirconium Trichlorohydrex Gly" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8a" },
+    "email": "mmontgomerymk@nsw.gov.au",
+    "medicaments": [ "Undecylenic Acid", "TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8b" },
+    "email": "ewashingtonml@columbia.edu",
+    "medicaments": [ "Avobenzone and Octocrylene and Oxybenzone", "Povidone-Iodine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8c" },
+    "email": "pyoungmm@mit.edu",
+    "medicaments": [ "Benzocaine, Resorcinol", "PROCAINAMIDE HYDROCHLORIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8d" },
+    "email": "mjacksonmn@biblegateway.com",
+    "medicaments": [ "Galantamine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8e" },
+    "email": "kfoxmo@oaic.gov.au",
+    "medicaments": [ "Pseudoephedrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a8f" },
+    "email": "scoxmp@accuweather.com",
+    "medicaments": [ "avobenzone, homosalate, octisalate, octocrylene, oxybenzone", "Acetaminophen, Aspirin and caffeine", "Sertraline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a90" },
+    "email": "hbanksmq@4shared.com",
+    "medicaments": [ "Ethyl Alcohol", "Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a91" },
+    "email": "ggilbertmr@blogtalkradio.com",
+    "medicaments": [ "Secale Nicotiana", "Diphenhydramine HCl, Phenylephrine HCl", "Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a92" },
+    "email": "dhawkinsms@walmart.com",
+    "medicaments": [ "Lisinopril", "Echinacea, Baptisia Tinctoria, Hydrastis Canadensis, Myrrha, Nasturtium Aquaticum, Phytolacca Decandra, Trigonella Foenum-Graecum, Acremonium, Alternaria Tenuis, Aspergillus Mixture, Aureobasidium, Botrytis Cinerea, Chaetomium Globosum, Cladosporium Cladosporioides, Curvularia, Drechslera, Epicoccum Nigrum, Fusarium, Mucor, Neurospora, Nigrospora, Penicillium Mixture, Phoma Herbarum, Rhizopus, Rhodotorula Rubra, Stemphylium, Torula Cerevisiae, Trichoderma Lignorum, Trichophyton Mentagrophytes" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a93" },
+    "email": "jmasonmt@blogspot.com",
+    "medicaments": [ "AMBRISENTAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a94" },
+    "email": "rarnoldmu@npr.org",
+    "medicaments": [ "Quetiapine fumarate", "HYDROCODONE BITARTRATE AND ACETAMINOPHEN", "dibasic sodium phosphate, monobasic sodium phosphate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a95" },
+    "email": "mramosmv@meetup.com",
+    "medicaments": [ "Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl", "Titanium dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a96" },
+    "email": "dchapmanmw@cornell.edu",
+    "medicaments": [ "Arnica montana, Calcarea fluorica, Calcarea phosphorica, Calendula officinalis, Graphites, Hydrofluoricum acidum, Phytolacca decandra, Sabina, Silicea, Thiosinaminum and Thuja occidentalis", "CHLOROXYLENOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a97" },
+    "email": "eryanmx@t.co",
+    "medicaments": [ "Docusate Sodium", "Belladonna, Conium maculatum, Dulcamara,", "methyldopa" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a98" },
+    "email": "awoodsmy@ycombinator.com",
+    "medicaments": [ "Aspirin", "somatropin", "Acetaminophen, Doxylamine succinate, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a99" },
+    "email": "rbutlermz@si.edu",
+    "medicaments": [ "NAPHAZOLINE HYDROCHLORIDE , PHENIRAMINE MALEATE", "Bisacodyl", "Piperonyl butoxide, Pyrethrum extract" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9a" },
+    "email": "jsmithn0@telegraph.co.uk",
+    "medicaments": [ "Doxycycline Hyclate", "Sulindac", "Levonorgestrel and Ethinyl Estradiol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9b" },
+    "email": "mevansn1@blogtalkradio.com",
+    "medicaments": [ "Aluminum Zirconium Tetrachlorohydrex GLY" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9c" },
+    "email": "llynchn2@cam.ac.uk",
+    "medicaments": [ "ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9d" },
+    "email": "pkingn3@amazon.co.uk",
+    "medicaments": [ "DIMETHICONE", "SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE, SODIUM PHOSPHATE, DIBASIC ANHYDROUS" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9e" },
+    "email": "malvarezn4@cnet.com",
+    "medicaments": [ "Avobenzone, Homosalate, Octisalate, and Octocrylene" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9a9f" },
+    "email": "wrobertsn5@odnoklassniki.ru",
+    "medicaments": [ "Citalopram Hydrobromide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa0" },
+    "email": "msimsn6@hhs.gov",
+    "medicaments": [ "hydralazine hydrochloride", "topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa1" },
+    "email": "bgordonn7@mapy.cz",
+    "medicaments": [ "Guaifenesin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa2" },
+    "email": "lwatkinsn8@europa.eu",
+    "medicaments": [ "Lisinopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa3" },
+    "email": "gbrownn9@prlog.org",
+    "medicaments": [ "ALUMINUM CHLOROHYDRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa4" },
+    "email": "ahernandezna@who.int",
+    "medicaments": [ "Sulfamethoxazole and Trimethoprim", "oxycodone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa5" },
+    "email": "pbradleynb@aboutads.info",
+    "medicaments": [ "Guaifenesin", "CEFPROZIL", "Clotrimazole and Betamethasone Dipropionate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa6" },
+    "email": "csimmonsnc@skyrock.com",
+    "medicaments": [ "Zinc Oxide", "Ethyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa7" },
+    "email": "schapmannd@surveymonkey.com",
+    "medicaments": [ "Duloxetine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa8" },
+    "email": "dreedne@goo.gl",
+    "medicaments": [ "METHYL SALICYLATE", "Potassium Chloride and Sodium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aa9" },
+    "email": "sreynoldsnf@virginia.edu",
+    "medicaments": [ "amlodipine besylate and benazepril hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aaa" },
+    "email": "jreedng@ed.gov",
+    "medicaments": [ "Phenobarbital" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aab" },
+    "email": "fpattersonnh@who.int",
+    "medicaments": [ "Lidocaine", "Hepar Sulf" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aac" },
+    "email": "cwilliamsonni@vistaprint.com",
+    "medicaments": [ "CHLOROXYLENOL", "Fluconazole", "House Dust" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aad" },
+    "email": "rcarternj@parallels.com",
+    "medicaments": [ "rizatriptan benzoate", "Furosemide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aae" },
+    "email": "apricenk@constantcontact.com",
+    "medicaments": [ "Triclosan", "LIDOCAINE HYDROCHLORIDE ANHYDROUS", "Losartan Potassium and Hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aaf" },
+    "email": "jcarternl@fastcompany.com",
+    "medicaments": [ "ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE", "avobenzone and homosalate and octisalate and octocrylene and oxybenzone", "Treatment Set TS329109" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab0" },
+    "email": "hfieldsnm@vistaprint.com",
+    "medicaments": [ "Octinoxate and Titanium Dioxide", "Silver Sulfadiazine", "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab1" },
+    "email": "kwellsnn@cdbaby.com",
+    "medicaments": [ "Loxapine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab2" },
+    "email": "bfullerno@sogou.com",
+    "medicaments": [ "TRICLOSAN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab3" },
+    "email": "ktuckernp@imdb.com",
+    "medicaments": [ "Nitrogen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab4" },
+    "email": "jkelleynq@foxnews.com",
+    "medicaments": [ "Cyclobenzaprine Hydrochloride", "Octinoxate, Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab5" },
+    "email": "jschmidtnr@jigsy.com",
+    "medicaments": [ "Aluminum Zirconium Trichlorohydrex Gly", "Bisoprolol Fumarate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab6" },
+    "email": "jmontgomeryns@i2i.jp",
+    "medicaments": [ "TRICLOSAN", "FENOFIBRATE", "alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab7" },
+    "email": "dgarciant@geocities.jp",
+    "medicaments": [ "Olanzapine and Fluoxetine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab8" },
+    "email": "chowardnu@nbcnews.com",
+    "medicaments": [ "Sodium Fluoride", "Trolamine Salicylate", "GUAIACUM SANCTUM RESIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ab9" },
+    "email": "khernandeznv@hibu.com",
+    "medicaments": [ "Ethyl Alcohol", "Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, and Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aba" },
+    "email": "creednw@hao123.com",
+    "medicaments": [ "Dimethicone", "Atenolol", "Sodium Tetradecyl Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9abb" },
+    "email": "jellisnx@w3.org",
+    "medicaments": [ "norgestimate and ethinyl estradiol", "cocoa butter, phenylephrine hcl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9abc" },
+    "email": "jnicholsny@webnode.com",
+    "medicaments": [ "benzocaine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9abd" },
+    "email": "sburnsnz@discuz.net",
+    "medicaments": [ "ASPIRIN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9abe" },
+    "email": "kwagnero0@google.fr",
+    "medicaments": [ "Indocyanine green", "Uricum acidum, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Carduus benedictus, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Dioscorea, Dolichos, Iris versicolor, Juniperus com., Nux vom.,Ptelea,Taraxacum, Carduus mar., Cynara scolymus, Solidago", "Docusate sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9abf" },
+    "email": "ablacko1@fastcompany.com",
+    "medicaments": [ "PAMIDRONATE DISODIUM", "Etodolac" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac0" },
+    "email": "kandersono2@blogger.com",
+    "medicaments": [ "prednicarbate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac1" },
+    "email": "sparkero3@nyu.edu",
+    "medicaments": [ "Natural Medicine", "Camphor, Menthol, Eucalyptus Oil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac2" },
+    "email": "kreynoldso4@columbia.edu",
+    "medicaments": [ "Terazosin", "Nitrofurantoin Monohydrate/Macrocrystalline" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac3" },
+    "email": "rjenkinso5@nydailynews.com",
+    "medicaments": [ "SILYBUM MARIANUM SEED GENTIANA LUTEA ROOT ARTEMISIA VULGARIS ROOT GINGER CHELIDONIUM MAJUS BLACK PEPPER", "Carbidopa and Levodopa", "simvastatin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac4" },
+    "email": "asimso6@i2i.jp",
+    "medicaments": [ "Hydrocortisone", "Galium, Kali mur, Kali sulph, Nat mur, Urtica ur, Acacia gum, lactose, magnesium stearate, corn starch, sucrose", "topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac5" },
+    "email": "wburnso7@craigslist.org",
+    "medicaments": [ "TITANIUM DIOXIDE", "Water", "House Dust" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac6" },
+    "email": "cnicholso8@github.com",
+    "medicaments": [ "ZINC OXIDE AND TITANIUM DIOXIDE", "Esmolol Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac7" },
+    "email": "ssanchezo9@hao123.com",
+    "medicaments": [ "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE", "Zinc Oxide, Octinoxate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac8" },
+    "email": "dortizoa@virginia.edu",
+    "medicaments": [ "Menthol Capsaicin", "Chamomilla 10X, Mercurius solubilis 15X, Pulsatilla 12X, Sulphur 12X", "Furosemide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ac9" },
+    "email": "ksmithob@umich.edu",
+    "medicaments": [ "Adapalene" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aca" },
+    "email": "vfoxoc@sina.com.cn",
+    "medicaments": [ "METOPROLOL SUCCINATE", "Menthol", "Camphor, Mentha Oil, Menthol, Methyl Salicylate, Zinc Oxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9acb" },
+    "email": "agibsonod@geocities.com",
+    "medicaments": [ "Octinoxate, Zinc Oxide", "ROPIVACAINE HYDROCHLORIDE", "Allantoin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9acc" },
+    "email": "aweaveroe@vinaora.com",
+    "medicaments": [ "azelastine hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9acd" },
+    "email": "pburkeof@nasa.gov",
+    "medicaments": [ "Cefuroxime Axetil", "methocarbamol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ace" },
+    "email": "salvarezog@indiatimes.com",
+    "medicaments": [ "Mineral Oil", "Glycerin Suppository" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9acf" },
+    "email": "rperezoh@mysql.com",
+    "medicaments": [ "Bismuth Subsalicylate", "standardized senna concentrate and docusate sodium", "Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad0" },
+    "email": "tperryoi@sbwire.com",
+    "medicaments": [ "Naproxen Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad1" },
+    "email": "kfloresoj@japanpost.jp",
+    "medicaments": [ "ALNUS GLUTINOSA", "Insects (whole body), Fire Ant Mix" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad2" },
+    "email": "hleeok@drupal.org",
+    "medicaments": [ "Centella Asiatica, Silicon Dioxide, and Thuja Occidentalis Root" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad3" },
+    "email": "holiverol@irs.gov",
+    "medicaments": [ "ALCOHOL", "chlorhexidine gluconate and isopropyl alcohol", "ziprasidone hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad4" },
+    "email": "sfowlerom@symantec.com",
+    "medicaments": [ "Triclosan", "ramipril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad5" },
+    "email": "rpierceon@paginegialle.it",
+    "medicaments": [ "Venlafaxine Hydrochloride", "ethacrynic acid", "Candida Albicans" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad6" },
+    "email": "mwebboo@businessinsider.com",
+    "medicaments": [ "Trazodone Hydrochloride", "Sodium Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad7" },
+    "email": "cbarnesop@umich.edu",
+    "medicaments": [ "Isosorbide Dinitrate", "Osteodoron AM Special Formula", "Diphenoxylate Hydrochloride and Atropine Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad8" },
+    "email": "swestoq@qq.com",
+    "medicaments": [ "ETHYL ALCOHOL", "ZINC OXIDE, TITANIUM DIOXIDE, ENSULIZOLE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ad9" },
+    "email": "kknightor@earthlink.net",
+    "medicaments": [ "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone", "Ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ada" },
+    "email": "scruzos@si.edu",
+    "medicaments": [ "Triclosan", "Loxapine", "White Pine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9adb" },
+    "email": "dpayneot@pbs.org",
+    "medicaments": [ "albuterol sulfate", "Piroxicam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9adc" },
+    "email": "ttuckerou@youtu.be",
+    "medicaments": [ "Pramoxine Hydrochloride", "DOCUSATE SODIUM, SENNOSIDES", "Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9add" },
+    "email": "smedinaov@redcross.org",
+    "medicaments": [ "Hepar Magnesium 6 Special Order", "Juniper Western", "Carob" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ade" },
+    "email": "egriffinow@usa.gov",
+    "medicaments": [ "OCTINOXATE and TITANIUM DIOXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9adf" },
+    "email": "rwatkinsox@statcounter.com",
+    "medicaments": [ "Treatment Set TS350534", "Simethicone", "Strophanthus Aurum Special Order" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae0" },
+    "email": "revansoy@mozilla.org",
+    "medicaments": [ "Risperidone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae1" },
+    "email": "ewheeleroz@google.it",
+    "medicaments": [ "Aconitum napellus, Arnica montana, Belladonna, Cimicifuga racemosa, Euphorbium officinarum, Gelsemium sempervirens, Gnaphalium polycephalum, Hypericum perforatum,", "Rice, Whole Grain", "Aluminum hydroxide, Magnesium hydroxide, Simethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae2" },
+    "email": "kchapmanp0@google.ru",
+    "medicaments": [ "Bleomycin", "Pioglitazone", "Diphenhydramine HCl, Zinc Acetate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae3" },
+    "email": "tdiazp1@engadget.com",
+    "medicaments": [ "LEVOTHYROXINE SODIUM", "Sertraline Hydrochloride", "Mineral Oil" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae4" },
+    "email": "dhicksp2@economist.com",
+    "medicaments": [ "Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae5" },
+    "email": "wmillerp3@lulu.com",
+    "medicaments": [ "LISINOPRIL AND HYDROCHLOROTHIAZIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae6" },
+    "email": "lreedp4@zimbio.com",
+    "medicaments": [ "Birch Black", "Bisacodyl Suppository", "OCTINOXATE, OCTISALATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae7" },
+    "email": "mwilliamsp5@bloglovin.com",
+    "medicaments": [ "Propranolol", "OXYGEN" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae8" },
+    "email": "dwarrenp6@google.cn",
+    "medicaments": [ "OCTINOXATE and TITANIUM DIOXIDE", "BENZALKONIUM CHLORIDE", "Albuterol Sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9ae9" },
+    "email": "mfergusonp7@blog.com",
+    "medicaments": [ "Berberis vulgaris, Glycyrrhiza glabra, Lappa major, Phytolacca decandra, Stillingia sylvatica, Trifolium pratense, Lymph (suis), Medulla ossis (suis), Thymus (suis),", "Aspergillus niger, Cladosporium, Candida albicans, Thyroidinum, Ustilago maidis, Aconitum nap., Antimonium tart. Aralia quinquefolia, Arnica, Arsenicum alb., Baptisia, Bryonia, Cantharis, Chelidonium majus, Cinchona, Echinacea, Iodium, Kali carb. Kali iod., Lachesis, Lycopodium Lycopus virginicus, Nat. mur., Nux vom., Phosphorus, Phytolacca, Pulsatilla, Rhus toxicodendron, Sabal", "Treatment Set TS345784" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aea" },
+    "email": "elewisp8@elegantthemes.com",
+    "medicaments": [ "Dioscorea batata 16 Special Order" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aeb" },
+    "email": "bcunninghamp9@privacy.gov.au",
+    "medicaments": [ "Dextromethorpan Guaifenesin", "Benzoin Resin", "Fluocinolone Acetonide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aec" },
+    "email": "cgriffinpa@vinaora.com",
+    "medicaments": [ "Fluocinolone Acetonide", "Hydralazine Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aed" },
+    "email": "lcarrpb@google.pl",
+    "medicaments": [ "Aluminum Zirconium Tetrachlorohydrex gly", "Hydrogen Peroxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aee" },
+    "email": "esanchezpc@odnoklassniki.ru",
+    "medicaments": [ "zileuton", "Dimethicone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aef" },
+    "email": "bburkepd@sciencedaily.com",
+    "medicaments": [ "pravastatin sodium", "ALCOHOL", "Tretinoin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af0" },
+    "email": "kreidpe@flickr.com",
+    "medicaments": [ "DEXTROMETHORPHAN HYDROBROMIDE", "Fluoride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af1" },
+    "email": "dpalmerpf@discuz.net",
+    "medicaments": [ "Triclosan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af2" },
+    "email": "lwoodspg@google.co.uk",
+    "medicaments": [ "Doxorubicin Hydrochloride", "WARFARIN SODIUM", "IOPAMIDOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af3" },
+    "email": "candrewsph@technorati.com",
+    "medicaments": [ "ETHYL ALCOHOL" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af4" },
+    "email": "lsmithpi@comcast.net",
+    "medicaments": [ "Rye Grass, Perennial Standardized" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af5" },
+    "email": "dmorenopj@netscape.com",
+    "medicaments": [ "docusate sodium and sennosides", "Octinoxate, Octocrylene" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af6" },
+    "email": "stuckerpk@cisco.com",
+    "medicaments": [ "Levofloxacin", "OCTINOXATE, TITANIUM DIOXIDE", "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af7" },
+    "email": "cmorenopl@etsy.com",
+    "medicaments": [ "AMITRIPTYLINE HYDROCHLORIDE", "Azithromycin Monohydrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af8" },
+    "email": "hperkinspm@oracle.com",
+    "medicaments": [ "Arsenicum album, Baptisia tinctoria, Berberis vulgaris, Bryonia, Carduus marianus, Chelidonium majus, Chionanthus virginica, Cinchona officinalis, Lycopodium clavatum Manganum muriaticum, Natrum sulphuricum, Nux vomica, Phosphorus, Sulphur, Taraxacum officinale", "Water", "bevacizumab" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9af9" },
+    "email": "rchavezpn@apple.com",
+    "medicaments": [ "Chaetomium globosum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9afa" },
+    "email": "abankspo@intel.com",
+    "medicaments": [ "bupropion hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9afb" },
+    "email": "lgonzalespp@booking.com",
+    "medicaments": [ "Octinoxate and Oxybenzone", "Octinoxate, Octisalate, Avobenzone", "Fluocinonide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9afc" },
+    "email": "kwhitepq@wisc.edu",
+    "medicaments": [ "Naproxen", "Amlodipine Besylate", "Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9afd" },
+    "email": "bruizpr@drupal.org",
+    "medicaments": [ "Antimon. crud., Arsenicum alb., Aur. met., Berber. aqui., Bovista, Carbo veg., Causticum, Chelidonium majus, Dulcamara, Graphites, Hepar sulph. calc., Hydrocotyle, Kali brom., Kali iod., Ledum, Lycopodium, Nux vom., Silicea, Sulphur iod., Zinc. met., Echinacea, Juglans regia, Lappa, Taraxacum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9afe" },
+    "email": "dgomezps@is.gd",
+    "medicaments": [ "Divalproex Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9aff" },
+    "email": "jboydpt@usda.gov",
+    "medicaments": [ "Bacitracin, Neomycin, Polymyxin B, Pramoxine HCl", "Belladonna, Calcarea carbonica, Calcarea fluorica, Chamomilla, Ferrum phosphoricum, Kreosotum, Podophyllum peltatum" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b00" },
+    "email": "rbrookspu@vistaprint.com",
+    "medicaments": [ "AVOBENZONE, OCTOCRYLENE, OXYBENZONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b01" },
+    "email": "wfrazierpv@posterous.com",
+    "medicaments": [ "ustilago maydis" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b02" },
+    "email": "jschmidtpw@shutterfly.com",
+    "medicaments": [ "Prednisone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b03" },
+    "email": "shansonpx@utexas.edu",
+    "medicaments": [ "Ginkgo biloba, Chininum sulphuricum, Cinchona officinalis, Graphites, Natrum salicylicum, Plumbum metallicum," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b04" },
+    "email": "wberrypy@google.es",
+    "medicaments": [ "Ibuprofen", "Alcohol, Benzethonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b05" },
+    "email": "wjamespz@clickbank.net",
+    "medicaments": [ "Omeprazole" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b06" },
+    "email": "bperkinsq0@fotki.com",
+    "medicaments": [ "Quetiapine fumarate", "Ginger", "Acetaminophen, Aspirin, Caffeine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b07" },
+    "email": "vfergusonq1@myspace.com",
+    "medicaments": [ "amlodipine and atorvastatin", "galantamine hydrobromide", "Scrub Pine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b08" },
+    "email": "rhawkinsq2@shutterfly.com",
+    "medicaments": [ "Phytolacca Decandra, Spongia Tosta, Crocus Sativus, Coffea Cruda, Aurum Metallicum", "Clindamycin hydrochloride", "Topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b09" },
+    "email": "sramirezq3@about.me",
+    "medicaments": [ "Olanzapine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0a" },
+    "email": "jgrahamq4@1688.com",
+    "medicaments": [ "SHEER COLOUR LIPSHINE", "Triclocarban" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0b" },
+    "email": "mmooreq5@fastcompany.com",
+    "medicaments": [ "POVIDONE-IODINE", "enalaprilat" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0c" },
+    "email": "kharveyq6@slate.com",
+    "medicaments": [ "acetaminophen, dextromethorphan Hbr, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0d" },
+    "email": "rdixonq7@bbb.org",
+    "medicaments": [ "COCCULUS INDICUS", "Diphenhydramine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0e" },
+    "email": "cfernandezq8@webeden.co.uk",
+    "medicaments": [ "Diflunisal", "FLUORIDE TREATMENT", "Hydroxychloroquine sulfate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b0f" },
+    "email": "dsullivanq9@unesco.org",
+    "medicaments": [ "nifedipine", "Docusate sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b10" },
+    "email": "gdavisqa@jimdo.com",
+    "medicaments": [ "Minoxidil", "Amiodarone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b11" },
+    "email": "aturnerqb@spiegel.de",
+    "medicaments": [ "NITROUS OXIDE", "METOPROLOL SUCCINATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b12" },
+    "email": "fperryqc@disqus.com",
+    "medicaments": [ "HYDROCODONE BITARTRATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b13" },
+    "email": "vhillqd@usda.gov",
+    "medicaments": [ "Triclosan", "hydrochlorothiazide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b14" },
+    "email": "gjohnsonqe@businessinsider.com",
+    "medicaments": [ "Captopril" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b15" },
+    "email": "grogersqf@dmoz.org",
+    "medicaments": [ "Natural Medicine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b16" },
+    "email": "akimqg@columbia.edu",
+    "medicaments": [ "orphenadrine citrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b17" },
+    "email": "lwagnerqh@prweb.com",
+    "medicaments": [ "Aceticum acidum, Aconitum napellus, Aesculus hippocastanum, Agaricus muscarius, Baptisia tinctoria, Belladonna, Bryonia, Chamomilla, Eupatorium perfoliatum, Ferrum phosphoricum, Gelsemium sempervirens, Pulsatilla, Rhus toxicodendron, Sambucus nigra, Sulphur and Veratrum viride.", "sitagliptin" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b18" },
+    "email": "jvasquezqi@cmu.edu",
+    "medicaments": [ "warfarin sodium", "Instant Hand Sanitizer with Security Clip" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b19" },
+    "email": "rwilliamsqj@drupal.org",
+    "medicaments": [ "Menthol, zinc oxide", "verapamil hydrochloride", "Benzalkonium Chloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1a" },
+    "email": "charrisqk@scribd.com",
+    "medicaments": [ "sulfacetamide sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1b" },
+    "email": "phudsonql@edublogs.org",
+    "medicaments": [ "Glipizide", "OCTOCRYLENE, OXYBENZONE", "AVOBENZONE, OCTINOXATE, OCTISALATE, and OXYBENZONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1c" },
+    "email": "ablackqm@deviantart.com",
+    "medicaments": [ "PULSATILLA VULGARIS", "Aralia quinquefolia , Humulus lupulus, Adrenalinum, Cortisone aceticum, Thyroidinum suis, Selenium metallicum, Arsenicum album, Calcarea carbonica, Convallaria majalis, Crotalus horridus," ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1d" },
+    "email": "sandrewsqn@unicef.org",
+    "medicaments": [ "TRICLOSAN", "Docusate Sodium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1e" },
+    "email": "ascottqo@amazon.com",
+    "medicaments": [ "OXYBENZONE", "Isopropyl Alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b1f" },
+    "email": "afoxqp@cloudflare.com",
+    "medicaments": [ "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone", "methohexital sodium", "topiramate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b20" },
+    "email": "aschmidtqq@seesaa.net",
+    "medicaments": [ "SULFAMETHOXAZOLE AND TRIMETHOPRIM", "PIPERACILLIN SODIUM,TAZOBACTAM SODIUM" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b21" },
+    "email": "rhayesqr@jiathis.com",
+    "medicaments": [ "Shadscale", "Benzocaine", "Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b22" },
+    "email": "dstoneqs@homestead.com",
+    "medicaments": [ "Allergenic Extracts Alum Precipitated" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b23" },
+    "email": "dwebbqt@smugmug.com",
+    "medicaments": [ "IRBESARTAN", "Sulfur", "Amitriptyline Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b24" },
+    "email": "calvarezqu@soundcloud.com",
+    "medicaments": [ "PREDNISOLONE SODIUM PHOSPHATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b25" },
+    "email": "jfisherqv@ucsd.edu",
+    "medicaments": [ "Aliskiren Hemifumarate and Amlodipine Besylate", "Idarubicin Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b26" },
+    "email": "wandrewsqw@reddit.com",
+    "medicaments": [ "Octinoxate and Oxybenzone" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b27" },
+    "email": "jgonzalezqx@princeton.edu",
+    "medicaments": [ "Stavudine", "CYCLOBENZAPRINE HYDROCHLORIDE, MAGNESIUM OXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b28" },
+    "email": "cmcdonaldqy@ask.com",
+    "medicaments": [ "thioguanine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b29" },
+    "email": "mwhiteqz@usnews.com",
+    "medicaments": [ "Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride", "Phendimetrazine Tartrate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2a" },
+    "email": "rharrisr0@ox.ac.uk",
+    "medicaments": [ "Ibuprofen", "HYDROQUINONE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2b" },
+    "email": "pchavezr1@cnbc.com",
+    "medicaments": [ "Acetaminophen, Aspirin, Caffeine", "HYDROXYZINE PAMOATE", "Eucalyptus globulus" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2c" },
+    "email": "rburtonr2@theatlantic.com",
+    "medicaments": [ "Labetalol hydrochloride", "Cattle Epithelium", "alcohol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2d" },
+    "email": "pburnsr3@irs.gov",
+    "medicaments": [ "tranexamic acid", "Polyethylene glycol, Propylene glycol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2e" },
+    "email": "wpayner4@europa.eu",
+    "medicaments": [ "Agaricus musc, Bovista, Muriaticum Ac, Pix liquida, Staphysag, Sulphur, Anacardium or, Apis mel, Causticum, Graphites, Oleander, Quassia, Rhus tox", "Titanium Dioxide" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b2f" },
+    "email": "kgarrettr5@uol.com.br",
+    "medicaments": [ "Ceftriaxone Sodium", "Imipramine Pamoate", "bisoprolol fumarate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b30" },
+    "email": "dbaileyr6@weibo.com",
+    "medicaments": [ "Calcium citrate, Iron pentacarbonyl, Cholecalciferol, Alpha-tocopherol, DL-, Pyridoxine hydrochloride, Folic Acid, Docusate Sodium, and Doconexent", "Polyvinyl Alcohol and Povidone and Tetrahydrozoline Hydrochloride", "Diltiazem Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b31" },
+    "email": "lmatthewsr7@yellowbook.com",
+    "medicaments": [ "Phenol" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b32" },
+    "email": "hpetersr8@surveymonkey.com",
+    "medicaments": [ "Birch River Red" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b33" },
+    "email": "nmoorer9@g.co",
+    "medicaments": [ "clobazam", "Hydromorphone Hydrochloride" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b34" },
+    "email": "ebutlerra@guardian.co.uk",
+    "medicaments": [ "Hydrocodone Bitartrate and Acetaminophen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b35" },
+    "email": "bwatkinsrb@abc.net.au",
+    "medicaments": [ "Pimecrolimus", "Magnesium Sulfate", "Bryonia , Cocculus, Gelsemium, Lobelia inf, Acacia gum, lactose, magnesium stearate, corn starch, sucrose" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b36" },
+    "email": "mcruzrc@cmu.edu",
+    "medicaments": [ "Alprazolam", "ibuprofen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b37" },
+    "email": "abellrd@spiegel.de",
+    "medicaments": [ "Urtica Betula Special Order", "DEXTROSE MONOHYDRATE", "Benzocaine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b38" },
+    "email": "kfowlerre@trellian.com",
+    "medicaments": [ "SODIUM SULFACETAMIDE, SULFUR" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b39" },
+    "email": "lvasquezrf@time.com",
+    "medicaments": [ "METHYL SALICYLATE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3a" },
+    "email": "lwelchrg@epa.gov",
+    "medicaments": [ "Oxycodone Hydrochloride", "bupropion hydrochloride", "Avobenzone and Octinoxate" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3b" },
+    "email": "roliverrh@state.gov",
+    "medicaments": [ "ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY", "Antihemophilic Factor Recombinant", "Oxygen" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3c" },
+    "email": "rdayri@1und1.de",
+    "medicaments": [ "Diphenhydramine HCl", "sulfacetamide sodium and sulfur" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3d" },
+    "email": "awestrj@ucoz.com",
+    "medicaments": [ "Rosuvastatin calcium" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3e" },
+    "email": "mpiercerk@nps.gov",
+    "medicaments": [ "BENZETHONIUM CHLORIDE", "TRAMADOL HYDROCHLORIDE", "Desloratadine" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b3f" },
+    "email": "dcarterrl@unc.edu",
+    "medicaments": [ "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b40" },
+    "email": "dlittlerm@pcworld.com",
+    "medicaments": [ "nicotine", "Sumatriptan" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b41" },
+    "email": "vsnyderrn@51.la",
+    "medicaments": [ "Aluminum Zirconium Tetrachlorohydrex GLY" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b42" },
+    "email": "mnelsonro@tripadvisor.com",
+    "medicaments": [ "Phendimetrazine Tartrate", "butorphanol tartrate", "bacitracin, neomycin, polymyxin B" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b43" },
+    "email": "lhartrp@reference.com",
+    "medicaments": [ "repaglinide", "alprazolam" ]
+  }
+  {
+    "_id": { "$oid": "58c074ef08ef2cb4519b9b44" },
+    "email": "solsonrq@trellian.com",
+    "medicaments": [ "ramelteon", "DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE" ]
+  }
+ {
+  "_id": { "$oid": "58c074ef08ef2cb4519b9b45" },
+  "email": "cjenkinsrr@cafepress.com",
+  "medicaments": [ "Hamster Epithelium" ]
+}
