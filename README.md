@@ -7,7 +7,7 @@ products:
 description: "This sample demonstrates a Python application that will be make a 360 view for the enduser "
 
 ---
-# Develop a 360 view application in python with Amazon DocumentDB 
+# Develop a 360 view application in python with Amazon DocumentDB and cloud 9
 
 ## About this sample
 
