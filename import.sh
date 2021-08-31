@@ -1,5 +1,5 @@
-mongoimport --ssl --host docdbemdel.cluster-cyxxysmikvg5.eu-west-3.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username edesa --password Toto1234 --db vue --type csv --headerline --file c1.csv
+mongoimport --ssl --host MYCLUSTER.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username USER --password XXXX --db vue --type csv --headerline --file c1.csv
 
-mongoimport --ssl --host docdbemdel.cluster-cyxxysmikvg5.eu-west-3.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username edesa --password Toto1234 -d vue c2.json
+mongoimport --ssl --hos tMYCLUSTER.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username USER --password XXXX -d vue c2.json
 
-mongoimport --ssl --host docdbemdel.cluster-cyxxysmikvg5.eu-west-3.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username edesa --password Toto1234  -d vue c3.json
+mongoimport --ssl --host MYCLUSTER.eu-west-3.docdb.amazonaws.com:27017 --sslCAFile ../rds-combined-ca-bundle.pem --username USER --password XXXX -d vue c3.json
