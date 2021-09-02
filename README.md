@@ -28,16 +28,15 @@ To run this sample, you'll need:
 
 > - [Python 2.7+](https://www.python.org/downloads/release/python-2713/) or [Python 3+](https://www.python.org/downloads/release/python-364/)
 
-> - An AWS DocumentDB account 
-> - A cloud 9 to load the data 
+> - An AWS DocumentDB cluster and A cloud 9 to interact with the documentdb , if you don't know how to do this you can use the tuttorial at the following address https://aws.amazon.com/fr/getting-started/hands-on/getting-started-amazon-documentdb-with-aws-cloud9/
 
 
 ### Step 1:  Clone or download this repository
 
-From your shell or command line:
+From your shell or command line in cloud 9 :
 
 ```Shell
-git clone xxxxxxxxxxxx
+git clone https://github.com/emmanueldeletang/306view-in-documentdb-
 ```
 
 or download and extract the repository .zip file.
@@ -46,11 +45,12 @@ or download and extract the repository .zip file.
 
 ### Step 2:  install the pre-requisite python library 
 
+cd the folder where you have install the file 
 
 - You will need to install dependencies using pip as follows:
 ```Shell
-$ python -m pip install xxxx
-$ Python -m pip install xxxx
+$ python -m pip install pymongo 
+
 
 ```
 
@@ -59,12 +59,32 @@ change the db name , the key and endpoint of your cosmosdb .
 
 Run the generator to generate data in c1, C2,C3  collections and the conso collection will be create , after launch the sampleconso.py that make the consolidation 
 
-```Shell
-$ python xxxx
+in the import.sh replace 
 
-$ python xxxx
+MYCLUSTER.docdb.amazonaws.com:27017 by your cluster endpoint 
+adjust the pem folder if need ../rds-combined-ca-bundle.pem
+replace  USER by your documentdb username and XXXX by your Documentdb password
+
+launch the import by command and intialize the global information in the shell 
+```Shell
+$source ./import.sh
+
+$export clusterendpoint=yourdocumentdb .docdb.amazonaws.com:27017
+$export password=.....
+$export username=.... 
+```
+The import will create 3 collections C1, C2 , C3 in the database vue in your documentdb 
+
+
+```Shell
+
+
+$ python conso2.py
 
 ```
+The python will create a new collection clients , with the aggregation of all the data in C 1 , C2 , C3 based on customer 
+
+you can check using mongo shell .... 
 
 
 in addition a word with more information will arrive in the future 
