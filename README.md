@@ -36,7 +36,7 @@ To run this sample, you'll need:
 From your shell or command line in cloud 9 :
 
 ```Shell
-git clone https://github.com/emmanueldeletang/306view-in-documentdb-
+git clone https://github.com/emmanueldeletang/306view-in-documentdb
 ```
 
 or download and extract the repository .zip file.
