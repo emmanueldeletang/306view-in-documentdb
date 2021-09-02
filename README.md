@@ -11,7 +11,7 @@ description: "This sample demonstrates a Python application that will be make a 
 
 ## About this sample
 
-> This sample is based on a real client need how to consolidate different source in one collections
+> This sample is an example made by me and a personnal work and engage only me as person.  how to consolidate different source in one collections
 
 ### Overview
 
